@@ -1,0 +1,1079 @@
+Order ID,order_date,Customer Name,Region,Category,Sub-Category,Sales,Profit
+US-2021-103800,1/1/2011,Darren Powers,Central,Office Supplies,Paper,16.448,5.5512
+US-2021-112326,1/1/2011,Phillina Ober,Central,Office Supplies,Binders,3.54,-5.487
+US-2021-112326,1/1/2011,Phillina Ober,Central,Office Supplies,Labels,11.784,4.2717
+US-2021-112326,1/1/2011,Phillina Ober,Central,Office Supplies,Storage,272.736,-64.7748
+US-2021-141817,1/1/2011,Mick Brown,East,Office Supplies,Art,19.536,4.884
+US-2021-167199,1/1/2011,Maria Etezadi,South,Furniture,Chairs,2573.82,746.4078
+US-2021-167199,2/1/2011,Maria Etezadi,South,Office Supplies,Art,5.48,1.4796
+US-2021-106054,3/1/2011,Jack O'Briant,South,Office Supplies,Art,12.78,5.2398
+US-2021-167199,3/1/2011,Maria Etezadi,South,Office Supplies,Binders,609.98,274.491
+US-2021-167199,3/1/2011,Maria Etezadi,South,Office Supplies,Fasteners,31.12,0.3112
+US-2021-167199,3/1/2011,Maria Etezadi,South,Office Supplies,Paper,6.54,3.0084
+US-2021-130813,3/1/2011,Lycoris Saunders,West,Office Supplies,Paper,19.44,9.3312
+US-2021-167199,3/1/2011,Maria Etezadi,South,Technology,Phones,755.96,204.1092
+US-2021-167199,3/1/2011,Maria Etezadi,South,Technology,Phones,391.98,113.6742
+US-2021-105417,3/1/2011,Vivek Sundaresam,Central,Furniture,Furnishings,76.728,-53.7096
+US-2021-105417,3/1/2011,Vivek Sundaresam,Central,Office Supplies,Binders,10.43,-18.2525
+US-2021-135405,3/1/2011,Melanie Seite,Central,Office Supplies,Art,9.344,1.168
+US-2021-135405,3/1/2011,Melanie Seite,Central,Technology,Accessories,31.2,9.75
+US-2021-149020,3/1/2011,Anthony Jacobs,South,Furniture,Furnishings,51.94,21.2954
+US-2021-149020,3/1/2011,Anthony Jacobs,South,Office Supplies,Labels,2.89,1.3583
+US-2021-130092,3/1/2011,Seth Vernon,East,Furniture,Furnishings,9.94,3.0814
+US-2021-157147,3/1/2011,Brian Dahlen,West,Furniture,Bookcases,333.999,3.9294
+US-2021-109232,3/1/2011,Natalie DeCherney,South,Furniture,Chairs,545.94,87.3504
+US-2021-157147,3/1/2011,Brian Dahlen,West,Office Supplies,Art,19.9,6.567
+US-2021-118192,3/1/2011,Michael Moore,East,Office Supplies,Binders,3.438,-2.5212
+US-2021-162775,3/1/2011,Chris Selesnick,South,Office Supplies,Binders,5.64,2.7072
+US-2021-162775,3/1/2011,Chris Selesnick,South,Office Supplies,Envelopes,50.94,25.47
+US-2021-162775,4/1/2011,Chris Selesnick,South,Office Supplies,Envelopes,11.36,5.3392
+US-2021-118192,4/1/2011,Michael Moore,East,Office Supplies,Paper,37.408,13.0928
+US-2021-162775,4/1/2011,Chris Selesnick,South,Office Supplies,Storage,572.58,34.3548
+US-2021-157147,4/1/2011,Brian Dahlen,West,Office Supplies,Storage,1325.85,238.653
+US-2021-162775,4/1/2011,Chris Selesnick,South,Technology,Accessories,646.74,258.696
+US-2021-149524,4/1/2011,Brendan Sweed,East,Furniture,Bookcases,61.96,-53.2856
+US-2021-103366,4/1/2011,Erica Hackney,South,Technology,Accessories,149.95,65.978
+US-2021-115791,4/1/2011,Delfina Latchford,East,Furniture,Furnishings,127.104,28.5984
+US-2021-115791,4/1/2011,Delfina Latchford,East,Office Supplies,Binders,18.588,-13.6312
+US-2021-115791,4/1/2011,Delfina Latchford,East,Office Supplies,Labels,30.072,10.1493
+US-2021-115791,4/1/2011,Delfina Latchford,East,Technology,Phones,124.2,-31.05
+US-2021-123477,4/1/2011,David Wiener,West,Office Supplies,Appliances,64.864,6.4864
+US-2021-146591,4/1/2011,Toby Swindell,West,Furniture,Bookcases,181.47,-320.597
+US-2021-146591,4/1/2011,Toby Swindell,West,Office Supplies,Binders,32.34,-23.716
+US-2021-146591,4/1/2011,Toby Swindell,West,Office Supplies,Envelopes,108.72,36.693
+US-2021-146591,4/1/2011,Toby Swindell,West,Office Supplies,Paper,56.064,19.6224
+US-2021-147627,5/1/2011,Hunter Lopez,South,Furniture,Chairs,1067.94,224.2674
+US-2021-167927,5/1/2011,Xylona Preis,Central,Furniture,Furnishings,14.73,4.8609
+US-2021-167927,5/1/2011,Xylona Preis,Central,Furniture,Furnishings,272.94,30.0234
+US-2021-147627,5/1/2011,Hunter Lopez,South,Furniture,Furnishings,38.6,11.58
+US-2021-148614,5/1/2011,Mark Van Huff,West,Furniture,Furnishings,19.3,5.79
+US-2021-167927,5/1/2011,Xylona Preis,Central,Office Supplies,Appliances,247.716,93.5816
+US-2021-147627,5/1/2011,Hunter Lopez,South,Office Supplies,Art,22.96,6.6584
+US-2021-147627,6/1/2011,Hunter Lopez,South,Office Supplies,Art,6.63,1.7901
+US-2021-167927,6/1/2011,Xylona Preis,Central,Office Supplies,Art,43.92,12.7368
+US-2021-167927,6/1/2011,Xylona Preis,Central,Office Supplies,Binders,19.05,8.9535
+US-2021-147774,6/1/2011,Muhammed MacIntyre,South,Office Supplies,Binders,67.194,-51.5154
+US-2021-167927,6/1/2011,Xylona Preis,Central,Office Supplies,Binders,29.7,13.365
+US-2021-147627,6/1/2011,Hunter Lopez,South,Office Supplies,Envelopes,23.34,10.9698
+US-2021-148614,6/1/2011,Mark Van Huff,West,Office Supplies,Paper,19.36,9.2928
+US-2021-167927,6/1/2011,Xylona Preis,Central,Office Supplies,Storage,13.98,4.0542
+US-2021-167927,7/1/2011,Xylona Preis,Central,Office Supplies,Storage,66.58,15.9792
+US-2021-147627,7/1/2011,Hunter Lopez,South,Technology,Phones,699.93,181.9818
+US-2021-110422,7/1/2011,Tom Boeckenhauer,South,Furniture,Furnishings,25.248,4.1028
+CA-2021-115238,7/1/2011,Jane Waco,East,Furniture,Furnishings,24.3,10.45
+CA-2021-115238,7/1/2011,Jane Waco,East,Furniture,Furnishings,9.48,3.79
+CA-2021-115238,7/1/2011,Jane Waco,East,Furniture,Furnishings,31.4,13.19
+CA-2021-115238,7/1/2011,Jane Waco,East,Office Supplies,Paper,6.48,3.11
+CA-2021-115238,7/1/2011,Jane Waco,East,Technology,Phones,209.5,58.66
+US-2021-146997,7/1/2011,Speros Goranitis,Central,Office Supplies,Fasteners,5.94,0
+US-2021-102645,7/1/2011,Ionia McGrath,West,Office Supplies,Paper,40.08,19.2384
+US-2021-167997,7/1/2011,Carol Adams,Central,Furniture,Bookcases,141.96,39.7488
+US-2021-155502,7/1/2011,Shirley Daniels,South,Furniture,Furnishings,12.42,4.4712
+US-2021-155502,7/1/2011,Shirley Daniels,South,Furniture,Furnishings,62.82,30.7818
+US-2021-167997,7/1/2011,Carol Adams,Central,Office Supplies,Binders,10.68,5.0196
+US-2021-155502,7/1/2011,Shirley Daniels,South,Office Supplies,Paper,16.68,8.34
+US-2021-155502,7/1/2011,Shirley Daniels,South,Office Supplies,Paper,19.44,9.3312
+US-2021-155502,7/1/2011,Shirley Daniels,South,Office Supplies,Storage,489.92,0
+US-2021-155502,7/1/2011,Shirley Daniels,South,Technology,Phones,187.98,52.6344
+US-2021-155502,7/1/2011,Shirley Daniels,South,Technology,Phones,155.35,0
+US-2021-117163,7/1/2011,Ed Jacobs,West,Furniture,Tables,333,-16.65
+US-2021-117163,7/1/2011,Ed Jacobs,West,Office Supplies,Art,36.44,12.0252
+US-2021-117163,7/1/2011,Ed Jacobs,West,Office Supplies,Storage,57.23,14.3075
+US-2021-100328,7/1/2011,Jasper Cacioppo,East,Office Supplies,Binders,3.928,1.3257
+US-2021-134103,7/1/2011,Mike Vittorini,Central,Office Supplies,Paper,10.56,4.752
+US-2021-134103,7/1/2011,Mike Vittorini,Central,Office Supplies,Storage,229.94,6.8982
+US-2021-115161,8/1/2011,Liz Carlisle,West,Furniture,Bookcases,290.666,3.4196
+US-2021-140795,8/1/2011,Bradley Drucker,Central,Technology,Accessories,468.9,206.316
+US-2021-123400,8/1/2011,Eric Barreto,South,Office Supplies,Binders,18.336,-12.224
+US-2021-139857,8/1/2011,Cynthia Delaney,West,Office Supplies,Fasteners,12.35,5.8045
+US-2021-123400,8/1/2011,Eric Barreto,South,Technology,Phones,180.96,13.572
+US-2021-111059,8/1/2011,Tom Boeckenhauer,West,Office Supplies,Binders,13.272,4.3134
+US-2021-111059,8/1/2011,Tom Boeckenhauer,West,Office Supplies,Binders,83.84,27.248
+US-2021-104808,8/1/2011,Mark Haberlin,West,Office Supplies,Binders,17.248,6.0368
+US-2021-107181,8/1/2011,Deborah Brumfield,West,Office Supplies,Binders,82.896,29.0136
+US-2021-107181,9/1/2011,Deborah Brumfield,West,Office Supplies,Paper,34.24,16.0928
+US-2021-108182,9/1/2011,Delfina Latchford,Central,Office Supplies,Binders,8.952,-14.7708
+US-2021-131905,9/1/2011,Neil Ducich,South,Office Supplies,Labels,15,7.2
+US-2021-131905,9/1/2011,Neil Ducich,South,Technology,Phones,144.95,42.0355
+US-2021-131905,9/1/2011,Neil Ducich,South,Technology,Phones,161.61,42.0186
+US-2021-169390,9/1/2011,Chris Selesnick,East,Office Supplies,Storage,64.96,9.744
+US-2021-107755,9/1/2011,Cyma Kinney,East,Technology,Accessories,115.36,49.6048
+US-2021-125759,9/1/2011,Nathan Mautz,West,Furniture,Furnishings,14.56,5.5328
+US-2021-168368,10/1/2011,Guy Armstrong,Central,Furniture,Chairs,60.89,15.2225
+US-2021-168368,10/1/2011,Guy Armstrong,Central,Furniture,Furnishings,332.94,53.2704
+US-2021-127614,10/1/2011,Natalie Fritzler,South,Furniture,Tables,1256.22,75.3732
+US-2021-127614,10/1/2011,Natalie Fritzler,South,Office Supplies,Binders,17.46,8.2062
+US-2021-168368,10/1/2011,Guy Armstrong,Central,Office Supplies,Binders,51.9,24.393
+US-2021-168368,10/1/2011,Guy Armstrong,Central,Office Supplies,Binders,9.64,4.4344
+US-2021-168368,10/1/2011,Guy Armstrong,Central,Office Supplies,Labels,14.94,6.8724
+US-2021-168368,10/1/2011,Guy Armstrong,Central,Office Supplies,Storage,64.96,2.5984
+US-2021-127614,10/1/2011,Natalie Fritzler,South,Technology,Accessories,234.45,103.158
+US-2021-110674,10/1/2011,Sanjit Chand,West,Furniture,Chairs,129.568,-24.294
+US-2021-121762,10/1/2011,Marina Lichtenstein,West,Office Supplies,Appliances,81.96,22.9488
+US-2021-107706,10/1/2011,Shui Tom,Central,Office Supplies,Paper,16.176,6.066
+US-2021-121762,10/1/2011,Marina Lichtenstein,West,Office Supplies,Supplies,238.62,4.7724
+US-2021-121762,10/1/2011,Marina Lichtenstein,West,Technology,Accessories,239.97,86.3892
+US-2021-165568,10/1/2011,Barry Französisch,West,Office Supplies,Binders,21.36,7.209
+US-2021-122567,10/1/2011,Michael Nguyen,Central,Office Supplies,Appliances,7.96,-13.93
+US-2021-122567,10/1/2011,Michael Nguyen,Central,Office Supplies,Binders,1.08,-1.728
+US-2021-154165,10/1/2011,Delfina Latchford,Central,Office Supplies,Art,54.208,8.8088
+US-2021-165589,10/1/2011,Troy Blackwell,Central,Furniture,Furnishings,25.16,-11.322
+US-2021-152905,10/1/2011,Aaron Bergman,Central,Office Supplies,Storage,12.624,-2.5248
+US-2021-109491,10/1/2011,Linda Cazamias,Central,Furniture,Furnishings,20.32,6.9088
+US-2021-164903,10/1/2011,Steven Roelle,West,Office Supplies,Paper,12.96,6.2208
+US-2021-109491,10/1/2011,Linda Cazamias,Central,Technology,Accessories,62.31,22.4316
+US-2021-165540,10/1/2011,Tamara Manning,Central,Office Supplies,Binders,8.85,-13.7175
+US-2021-133354,10/1/2011,Sue Ann Reed,West,Office Supplies,Paper,19.44,9.3312
+US-2021-103744,11/1/2011,Michael Grace,Central,Office Supplies,Binders,4.428,-6.8634
+US-2021-103744,11/1/2011,Michael Grace,Central,Office Supplies,Labels,6.936,2.3409
+US-2021-137680,11/1/2011,Jennifer Halladay,West,Office Supplies,Paper,22.776,7.6869
+US-2021-137680,11/1/2011,Jennifer Halladay,West,Office Supplies,Paper,32.896,11.1024
+US-2021-156545,11/1/2011,Joy Smith,East,Office Supplies,Art,19.456,3.4048
+US-2021-113880,11/1/2011,Vicky Freymann,Central,Furniture,Chairs,634.116,-172.1172
+US-2021-131009,11/1/2011,Shahid Collister,Central,Furniture,Chairs,362.25,0
+US-2021-104269,11/1/2011,Dave Brooks,West,Furniture,Chairs,457.568,51.4764
+US-2021-131009,11/1/2011,Shahid Collister,Central,Furniture,Furnishings,63.552,-34.9536
+US-2021-168312,11/1/2011,Giulietta Weimer,Central,Furniture,Tables,376.509,-43.0296
+US-2021-131009,11/1/2011,Shahid Collister,Central,Office Supplies,Fasteners,18.84,-3.5325
+US-2021-113880,11/1/2011,Vicky Freymann,Central,Office Supplies,Paper,17.472,5.6784
+US-2021-131009,11/1/2011,Shahid Collister,Central,Office Supplies,Storage,129.552,-22.6716
+US-2021-168312,11/1/2011,Giulietta Weimer,Central,Office Supplies,Storage,137.352,8.5845
+US-2021-143707,11/1/2011,Hallie Redmond,East,Technology,Phones,5.94,1.6038
+US-2021-107524,11/1/2011,Kristina Nunn,East,Office Supplies,Envelopes,11.36,5.3392
+US-2021-111157,11/1/2011,Nicole Hansen,East,Office Supplies,Paper,3.424,1.07
+US-2021-107524,11/1/2011,Kristina Nunn,East,Office Supplies,Paper,36.4,17.472
+US-2021-111157,11/1/2011,Nicole Hansen,East,Technology,Accessories,151.2,32.13
+US-2021-127978,11/1/2011,Jill Stevenson,East,Furniture,Bookcases,302.45,-199.617
+US-2021-105648,11/1/2011,Eva Jacobs,West,Furniture,Tables,626.352,-23.4882
+US-2021-130421,11/1/2011,Sam Craven,Central,Office Supplies,Appliances,176.772,-459.6072
+US-2021-155852,12/1/2011,Ashley Jarboe,South,Office Supplies,Art,19.456,3.4048
+US-2021-127964,12/1/2011,Anne Pryor,East,Office Supplies,Binders,25.32,9.1785
+US-2021-127964,12/1/2011,Anne Pryor,East,Office Supplies,Binders,125.76,40.872
+US-2021-127978,12/1/2011,Jill Stevenson,East,Office Supplies,Labels,15.12,4.914
+US-2021-127978,12/1/2011,Jill Stevenson,East,Office Supplies,Storage,44.672,-10.0512
+US-2021-127964,12/1/2011,Anne Pryor,East,Technology,Phones,9.99,4.5954
+US-2021-117016,12/1/2011,Sanjit Chand,South,Office Supplies,Art,15.552,2.3328
+US-2021-116239,12/1/2011,Clay Ludtke,South,Office Supplies,Storage,354.9,17.745
+US-2021-169061,12/1/2011,Aimee Bixby,East,Office Supplies,Art,59.52,15.4752
+US-2021-169061,12/1/2011,Aimee Bixby,East,Office Supplies,Binders,49.632,16.7508
+US-2021-169061,12/1/2011,Aimee Bixby,East,Office Supplies,Paper,97.82,45.9754
+US-2021-169061,12/1/2011,Aimee Bixby,East,Office Supplies,Supplies,18.62,5.3998
+US-2021-169061,12/1/2011,Aimee Bixby,East,Technology,Accessories,479.97,177.5889
+US-2021-104563,12/1/2011,Craig Molinari,West,Furniture,Chairs,436.704,21.8352
+US-2021-156587,12/1/2011,Aaron Bergman,West,Furniture,Chairs,48.712,5.4801
+US-2021-104563,13-01-2011,Craig Molinari,West,Furniture,Chairs,481.568,54.1764
+US-2021-104563,13-01-2011,Craig Molinari,West,Office Supplies,Art,20.65,9.499
+US-2021-156587,13-01-2011,Aaron Bergman,West,Office Supplies,Art,17.94,4.6644
+US-2021-131982,13-01-2011,Nora Pelletier,West,Office Supplies,Binders,107.648,33.64
+US-2021-104563,13-01-2011,Craig Molinari,West,Office Supplies,Storage,204.9,0
+US-2021-156587,13-01-2011,Aaron Bergman,West,Office Supplies,Storage,242.94,4.8588
+US-2021-140116,13-01-2011,Kean Thornton,West,Office Supplies,Art,83.168,9.3564
+US-2021-100279,13-01-2011,Scott Williamson,Central,Office Supplies,Paper,22.38,10.7424
+US-2021-140116,13-01-2011,Kean Thornton,West,Office Supplies,Storage,636.408,-15.9102
+US-2021-166884,13-01-2011,Chloris Kastensmidt,East,Furniture,Furnishings,8.32,2.288
+US-2021-114790,13-01-2011,Filia McAdams,South,Office Supplies,Appliances,146.76,38.1576
+US-2021-103338,14-01-2011,Richard Bierner,West,Office Supplies,Art,7.98,2.0748
+US-2021-166884,14-01-2011,Chloris Kastensmidt,East,Office Supplies,Fasteners,10.464,1.7004
+US-2021-114790,14-01-2011,Filia McAdams,South,Office Supplies,Paper,14.94,7.0218
+US-2021-158337,14-01-2011,Kelly Andreada,East,Office Supplies,Paper,108.92,49.014
+US-2021-114790,14-01-2011,Filia McAdams,South,Technology,Accessories,32.96,14.1728
+US-2021-114790,14-01-2011,Filia McAdams,South,Technology,Phones,587.97,164.6316
+CA-2021-139675,14-01-2011,Nicole Fjeld,West,Furniture,Chairs,915.14,102.95
+CA-2021-139675,14-01-2011,Nicole Fjeld,West,Furniture,Furnishings,327.76,91.77
+US-2021-125521,14-01-2011,Christine Kargatis,South,Furniture,Chairs,1139.92,284.98
+US-2021-157623,14-01-2011,Dean Katz,West,Office Supplies,Art,3.38,1.2506
+US-2021-114510,14-01-2011,Jason Fortune-,West,Office Supplies,Binders,33.088,11.1672
+US-2021-114510,14-01-2011,Jason Fortune-,West,Office Supplies,Binders,62.048,20.1656
+US-2021-100293,14-01-2011,Neil Französisch,South,Office Supplies,Paper,91.056,31.8696
+US-2021-157623,14-01-2011,Dean Katz,West,Office Supplies,Paper,10.56,4.752
+US-2021-152618,14-01-2011,Rick Bensley,Central,Office Supplies,Paper,8.448,2.64
+US-2021-114510,14-01-2011,Jason Fortune-,West,Office Supplies,Storage,80.98,3.2392
+US-2021-114510,14-01-2011,Jason Fortune-,West,Office Supplies,Storage,21.36,5.7672
+US-2021-114510,14-01-2011,Jason Fortune-,West,Technology,Accessories,82.8,6.624
+US-2021-152618,14-01-2011,Rick Bensley,Central,Technology,Machines,574.91,156.047
+US-2021-149958,14-01-2011,Alan Shonely,South,Furniture,Furnishings,45.696,5.1408
+US-2021-149958,14-01-2011,Alan Shonely,South,Office Supplies,Binders,7.218,-5.5338
+US-2021-149958,14-01-2011,Alan Shonely,South,Office Supplies,Binders,43.188,-31.6712
+US-2021-149958,14-01-2011,Alan Shonely,South,Office Supplies,Paper,131.904,47.8152
+US-2021-149958,14-01-2011,Alan Shonely,South,Office Supplies,Storage,142.776,17.847
+US-2021-157609,14-01-2011,Kristina Nunn,South,Technology,Phones,471.92,29.495
+US-2021-148838,14-01-2011,Christine Phan,East,Furniture,Tables,1071.576,-553.6476
+US-2021-148838,15-01-2011,Christine Phan,East,Furniture,Tables,1579.746,-447.5947
+US-2021-148838,15-01-2011,Christine Phan,East,Furniture,Tables,613.908,-122.7816
+US-2021-118339,15-01-2011,Bradley Nguyen,Central,Office Supplies,Appliances,93.78,36.5742
+US-2021-164763,15-01-2011,Mark Haberlin,South,Office Supplies,Appliances,32.67,8.4942
+US-2021-158442,15-01-2011,Annie Zypern,Central,Office Supplies,Art,4.448,0.3336
+US-2021-118339,15-01-2011,Bradley Nguyen,Central,Office Supplies,Art,19.68,5.7072
+US-2021-118339,15-01-2011,Bradley Nguyen,Central,Office Supplies,Binders,35.88,17.2224
+US-2021-164763,15-01-2011,Mark Haberlin,South,Office Supplies,Binders,30.44,14.9156
+US-2021-164763,15-01-2011,Mark Haberlin,South,Office Supplies,Binders,11.43,5.3721
+US-2021-118339,15-01-2011,Bradley Nguyen,Central,Office Supplies,Binders,53.4,25.098
+US-2021-118339,15-01-2011,Bradley Nguyen,Central,Office Supplies,Paper,47.18,23.59
+US-2021-148838,15-01-2011,Christine Phan,East,Office Supplies,Paper,155.04,75.9696
+US-2021-158442,15-01-2011,Annie Zypern,Central,Office Supplies,Paper,5.184,1.8792
+US-2021-158442,16-01-2011,Annie Zypern,Central,Office Supplies,Paper,15.552,5.4432
+US-2021-148838,17-01-2011,Christine Phan,East,Office Supplies,Paper,34.86,16.3842
+US-2021-164763,17-01-2011,Mark Haberlin,South,Office Supplies,Paper,16,7.68
+US-2021-164763,17-01-2011,Mark Haberlin,South,Office Supplies,Paper,12.96,6.3504
+US-2021-127859,17-01-2011,Quincy Jones,East,Office Supplies,Paper,126.624,41.1528
+US-2021-111871,17-01-2011,Eileen Kiefer,West,Furniture,Bookcases,1198.33,70.49
+US-2021-145317,17-01-2011,Sean Miller,South,Furniture,Furnishings,122.352,15.294
+US-2021-145317,17-01-2011,Sean Miller,South,Furniture,Furnishings,30.768,8.0766
+US-2021-131275,17-01-2011,Sample Company A,West,Furniture,Furnishings,111,14.43
+US-2021-145317,17-01-2011,Sean Miller,South,Office Supplies,Art,8.016,1.002
+US-2021-145317,17-01-2011,Sean Miller,South,Office Supplies,Fasteners,18.936,5.9175
+US-2021-145317,17-01-2011,Sean Miller,South,Office Supplies,Paper,21.376,7.4816
+US-2021-131275,17-01-2011,Sample Company A,West,Office Supplies,Storage,1856.19,334.1142
+US-2021-131275,18-01-2011,Sample Company A,West,Technology,Machines,1279.968,415.9896
+US-2021-145317,18-01-2011,Sean Miller,South,Technology,Machines,22638.48,-1811.0784
+US-2021-145317,18-01-2011,Sean Miller,South,Technology,Machines,821.3,-16.426
+US-2021-103989,18-01-2011,Matt Connell,South,Furniture,Furnishings,20.016,5.5044
+US-2021-103989,18-01-2011,Matt Connell,South,Furniture,Furnishings,4.992,1.3728
+US-2021-103989,19-01-2011,Matt Connell,South,Office Supplies,Binders,33.57,-25.737
+US-2021-103989,19-01-2011,Matt Connell,South,Office Supplies,Labels,11.808,3.9852
+US-2021-103989,19-01-2011,Matt Connell,South,Office Supplies,Storage,26.16,1.962
+US-2021-103989,19-01-2011,Matt Connell,South,Technology,Accessories,170.24,53.2
+US-2021-103989,19-01-2011,Matt Connell,South,Technology,Phones,323.976,28.3479
+US-2021-155544,19-01-2011,Gary McGarr,South,Furniture,Chairs,218.376,-10.9188
+US-2021-155544,19-01-2011,Gary McGarr,South,Furniture,Furnishings,32.952,6.5904
+US-2021-163223,19-01-2011,Kristen Hastings,South,Office Supplies,Art,9.32,2.7028
+US-2021-140004,19-01-2011,Cassandra Brandow,East,Office Supplies,Art,6.048,1.5876
+US-2021-140004,19-01-2011,Cassandra Brandow,East,Office Supplies,Art,7.408,1.2038
+US-2021-163223,19-01-2011,Kristen Hastings,South,Office Supplies,Binders,122.94,59.0112
+US-2021-163223,20-01-2011,Kristen Hastings,South,Office Supplies,Labels,14.4,6.624
+US-2021-155544,20-01-2011,Gary McGarr,South,Office Supplies,Labels,59.2,22.2
+US-2021-163223,20-01-2011,Kristen Hastings,South,Office Supplies,Paper,122.97,60.2553
+US-2021-107405,20-01-2011,Thomas Seio,South,Office Supplies,Storage,16.272,-3.8646
+US-2021-163223,20-01-2011,Kristen Hastings,South,Technology,Phones,3499.93,909.9818
+US-2021-148040,20-01-2011,Beth Fritzler,West,Furniture,Chairs,314.352,-35.3646
+US-2021-129609,20-01-2011,Vivian Mathis,Central,Office Supplies,Art,16.28,6.512
+US-2021-158057,20-01-2011,Craig Carroll,South,Office Supplies,Binders,51.465,-39.4565
+US-2021-158057,20-01-2011,Craig Carroll,South,Office Supplies,Binders,7.644,-5.8604
+US-2021-148040,20-01-2011,Beth Fritzler,West,Office Supplies,Paper,74.352,23.235
+US-2021-164749,20-01-2011,Bruce Geld,South,Office Supplies,Labels,9.912,3.2214
+US-2021-120838,20-01-2011,Patrick O'Donnell,West,Office Supplies,Storage,330.4,85.904
+US-2021-120838,20-01-2011,Patrick O'Donnell,West,Technology,Phones,604.752,37.797
+US-2021-143637,20-01-2011,Maurice Satty,West,Furniture,Furnishings,40.48,14.5728
+US-2021-147235,20-01-2011,Carlos Daly,East,Office Supplies,Paper,24.9,11.703
+US-2021-148586,20-01-2011,Annie Zypern,East,Furniture,Chairs,366.786,65.2064
+US-2021-128237,21-01-2011,Christina Anderson,West,Office Supplies,Art,25.44,9.9216
+US-2021-128237,21-01-2011,Christina Anderson,West,Office Supplies,Art,14.88,3.72
+US-2021-128237,21-01-2011,Christina Anderson,West,Office Supplies,Art,6.56,1.9024
+US-2021-128237,21-01-2011,Christina Anderson,West,Technology,Accessories,45.48,15.918
+US-2021-141838,21-01-2011,Damala Kotsonis,West,Office Supplies,Art,3.36,0.84
+US-2021-141838,21-01-2011,Damala Kotsonis,West,Office Supplies,Binders,27.936,9.4284
+US-2021-100860,21-01-2011,Cindy Stewart,West,Office Supplies,Labels,18.75,9
+US-2021-138436,21-01-2011,Jonathan Doherty,West,Technology,Accessories,66.3,8.619
+US-2021-141838,21-01-2011,Damala Kotsonis,West,Technology,Phones,28.784,2.8784
+US-2021-117380,21-01-2011,Mike Pelletier,East,Furniture,Tables,330.588,-143.2548
+US-2021-137869,21-01-2011,Christina VanderZanden,Central,Furniture,Tables,1184.72,106.6248
+US-2021-137869,21-01-2011,Christina VanderZanden,Central,Office Supplies,Envelopes,6.12,2.8764
+US-2021-100881,21-01-2011,Daniel Raglin,West,Technology,Phones,302.376,22.6782
+US-2021-137274,21-01-2011,Mike Gockenbach,Central,Furniture,Tables,890.841,-152.7156
+US-2021-131247,21-01-2011,Guy Armstrong,West,Furniture,Bookcases,205.666,-12.098
+US-2021-162089,21-01-2011,Mark Packer,Central,Furniture,Chairs,127.302,-9.093
+US-2021-105151,21-01-2011,Susan Gilcrest,East,Office Supplies,Art,10.5,2.94
+US-2021-169033,21-01-2011,Kunst Miller,East,Office Supplies,Art,49.65,20.853
+US-2021-162089,21-01-2011,Mark Packer,Central,Office Supplies,Envelopes,335.72,113.3055
+US-2021-133424,21-01-2011,Dorris liebe,West,Office Supplies,Labels,44.4,22.2
+US-2021-113124,21-01-2011,Nat Carroll,Central,Office Supplies,Storage,129.3,6.465
+US-2021-133424,21-01-2011,Dorris liebe,West,Office Supplies,Storage,15.84,0
+US-2021-162089,21-01-2011,Mark Packer,Central,Technology,Phones,251.944,88.1804
+US-2021-130428,21-01-2011,Trudy Glocke,South,Furniture,Chairs,1125.488,98.4802
+US-2021-128055,21-01-2011,Alex Avila,West,Office Supplies,Appliances,52.98,14.8344
+US-2021-130428,21-01-2011,Trudy Glocke,South,Office Supplies,Art,4.032,1.0584
+US-2021-101770,21-01-2011,Karen Bern,South,Office Supplies,Binders,1.869,-1.3083
+US-2021-130428,21-01-2011,Trudy Glocke,South,Office Supplies,Binders,12.645,-10.116
+US-2021-104759,21-01-2011,Dorothy Dickinson,Central,Office Supplies,Binders,8.134,-13.8278
+US-2021-112403,21-01-2011,Jas O'Carroll,East,Office Supplies,Binders,0.852,-0.5964
+US-2021-128055,22-01-2011,Alex Avila,West,Office Supplies,Binders,673.568,252.588
+US-2021-104759,22-01-2011,Dorothy Dickinson,Central,Technology,Accessories,79.984,13.9972
+US-2021-157021,22-01-2011,Kunst Miller,West,Office Supplies,Binders,17.088,5.5536
+US-2021-138359,22-01-2011,Katharine Harms,East,Office Supplies,Binders,6.24,3.0576
+US-2021-157021,22-01-2011,Kunst Miller,West,Office Supplies,Labels,29.6,14.8
+US-2021-138359,22-01-2011,Katharine Harms,East,Office Supplies,Storage,66.96,2.6784
+US-2021-160276,22-01-2011,Anna Häberlin,South,Furniture,Furnishings,177.68,46.1968
+US-2021-164315,22-01-2011,Rob Dowd,South,Office Supplies,Appliances,154.9,40.274
+US-2021-157847,22-01-2011,Sam Craven,Central,Office Supplies,Paper,33.488,10.465
+US-2021-157847,22-01-2011,Sam Craven,Central,Office Supplies,Paper,26.72,9.352
+US-2021-164315,22-01-2011,Rob Dowd,South,Office Supplies,Paper,15.84,7.128
+US-2021-164315,22-01-2011,Rob Dowd,South,Technology,Phones,1049.93,293.9804
+US-2021-112291,22-01-2011,Katrina Edelman,West,Office Supplies,Envelopes,11.16,5.58
+US-2021-112291,22-01-2011,Katrina Edelman,West,Technology,Accessories,159.98,57.5928
+US-2021-112291,22-01-2011,Katrina Edelman,West,Technology,Accessories,62.31,22.4316
+US-2021-133228,23-01-2011,Maurice Satty,Central,Furniture,Furnishings,5.47,2.3521
+US-2021-133228,23-01-2011,Maurice Satty,Central,Office Supplies,Art,79.36,23.808
+US-2021-128685,23-01-2011,Mary Zewe,West,Office Supplies,Binders,7.184,2.245
+US-2021-105172,23-01-2011,Paul Knutson,West,Office Supplies,Labels,18.9,9.072
+US-2021-149538,23-01-2011,Ken Black,South,Office Supplies,Paper,12.96,6.3504
+US-2021-149538,23-01-2011,Ken Black,South,Office Supplies,Paper,19.44,9.3312
+US-2021-149538,23-01-2011,Ken Black,South,Office Supplies,Storage,232.55,9.302
+US-2021-149538,24-01-2011,Ken Black,South,Technology,Accessories,99.98,42.9914
+US-2021-102988,24-01-2011,Greg Maxwell,South,Office Supplies,Art,22.96,6.6584
+US-2021-149104,24-01-2011,Ruben Dartt,Central,Office Supplies,Art,26.7,7.476
+US-2021-149104,24-01-2011,Ruben Dartt,Central,Office Supplies,Art,13.89,4.5837
+US-2021-102988,24-01-2011,Greg Maxwell,South,Office Supplies,Art,22.96,7.5768
+US-2021-157231,24-01-2011,Roy Phan,South,Office Supplies,Binders,115.36,56.5264
+US-2021-149104,24-01-2011,Ruben Dartt,Central,Office Supplies,Binders,40.2,18.09
+US-2021-102988,24-01-2011,Greg Maxwell,South,Office Supplies,Paper,12.96,6.3504
+US-2021-113887,24-01-2011,Tracy Hopkins,East,Office Supplies,Paper,55.48,26.6304
+US-2021-149104,24-01-2011,Ruben Dartt,Central,Office Supplies,Storage,689.82,20.6946
+US-2021-151001,24-01-2011,John Grady,Central,Office Supplies,Storage,52.096,3.9072
+US-2021-151001,24-01-2011,John Grady,Central,Office Supplies,Storage,49.632,3.7224
+US-2021-102988,24-01-2011,Greg Maxwell,South,Office Supplies,Supplies,4164.05,83.281
+US-2021-102988,24-01-2011,Greg Maxwell,South,Technology,Phones,28.99,8.4071
+US-2021-102652,24-01-2011,Andy Yotov,West,Furniture,Furnishings,91.96,15.6332
+US-2021-102652,24-01-2011,Andy Yotov,West,Furniture,Furnishings,33.11,12.9129
+US-2021-169803,24-01-2011,Scott Cohen,West,Furniture,Tables,653.55,111.1035
+US-2021-118486,24-01-2011,Shirley Daniels,East,Furniture,Tables,154.764,-36.1116
+US-2021-153808,24-01-2011,Frank Hawley,West,Office Supplies,Art,70.95,18.447
+US-2021-153808,24-01-2011,Frank Hawley,West,Office Supplies,Binders,65.568,23.7684
+US-2021-136742,24-01-2011,Guy Phonely,East,Office Supplies,Binders,44.91,-35.928
+US-2021-102652,25-01-2011,Andy Yotov,West,Office Supplies,Paper,55.48,26.6304
+US-2021-102652,25-01-2011,Andy Yotov,West,Office Supplies,Paper,19.44,9.3312
+US-2021-118486,25-01-2011,Shirley Daniels,East,Office Supplies,Supplies,10.304,-2.1896
+US-2021-169803,25-01-2011,Scott Cohen,West,Technology,Accessories,33.9,2.034
+US-2021-153808,25-01-2011,Frank Hawley,West,Technology,Accessories,299.97,131.9868
+US-2021-118486,25-01-2011,Shirley Daniels,East,Technology,Accessories,116.784,21.897
+US-2021-124023,25-01-2011,Pauline Johnson,South,Furniture,Furnishings,8.96,2.7776
+US-2021-128846,25-01-2011,Roland Schwarz,South,Office Supplies,Paper,122.97,60.2553
+US-2021-165806,25-01-2011,Valerie Mitchum,South,Office Supplies,Paper,58.32,27.9936
+US-2021-128846,25-01-2011,Roland Schwarz,South,Technology,Phones,629.95,163.787
+US-2021-165806,25-01-2011,Valerie Mitchum,South,Technology,Phones,200.97,50.2425
+US-2021-118997,26-01-2011,Ruben Ausman,South,Furniture,Tables,1215.92,316.1392
+US-2021-150581,26-01-2011,Nathan Mautz,West,Furniture,Tables,99.592,2.4898
+US-2021-121769,26-01-2011,John Stevenson,East,Furniture,Tables,172.11,-94.6605
+US-2021-100363,26-01-2011,Jim Mitchum,West,Office Supplies,Fasteners,2.368,0.8288
+US-2021-163797,26-01-2011,Pauline Chand,West,Office Supplies,Fasteners,49.792,-11.8256
+US-2021-100363,26-01-2011,Jim Mitchum,West,Office Supplies,Paper,19.008,6.8904
+US-2021-150581,26-01-2011,Nathan Mautz,West,Technology,Accessories,399.96,139.986
+US-2021-121734,26-01-2011,Sanjit Engle,West,Office Supplies,Binders,9.584,3.3544
+US-2021-102715,26-01-2011,Jay Kimmel,South,Office Supplies,Fasteners,6.912,2.3328
+US-2021-102715,26-01-2011,Jay Kimmel,South,Office Supplies,Paper,10.368,3.6288
+US-2021-110555,26-01-2011,Michelle Moray,West,Office Supplies,Storage,87.08,24.3824
+US-2021-102715,26-01-2011,Jay Kimmel,South,Technology,Accessories,335.944,41.993
+US-2021-102715,26-01-2011,Jay Kimmel,South,Technology,Accessories,383.976,81.5949
+US-2021-110555,26-01-2011,Michelle Moray,West,Technology,Accessories,217.44,91.3248
+US-2021-110555,26-01-2011,Michelle Moray,West,Technology,Phones,105.584,9.2386
+US-2021-138940,26-01-2011,Gary Mitchum,Central,Technology,Phones,758.352,265.4232
+US-2021-154599,26-01-2011,Kean Nguyen,West,Furniture,Bookcases,308.499,-18.147
+US-2021-142979,26-01-2011,Edward Hooks,West,Office Supplies,Art,39.68,16.2688
+US-2021-154599,26-01-2011,Kean Nguyen,West,Office Supplies,Binders,18.088,6.5569
+US-2021-158365,26-01-2011,Stewart Visinsky,Central,Office Supplies,Paper,32.4,15.552
+US-2021-154599,26-01-2011,Kean Nguyen,West,Technology,Phones,438.368,38.3572
+US-2021-154599,26-01-2011,Kean Nguyen,West,Technology,Phones,1075.088,94.0702
+US-2021-122336,26-01-2011,Jonathan Doherty,East,Office Supplies,Art,17.856,1.116
+US-2021-122336,26-01-2011,Jonathan Doherty,East,Office Supplies,Binders,509.97,-407.976
+US-2021-122336,26-01-2011,Jonathan Doherty,East,Office Supplies,Fasteners,30.992,10.0724
+US-2021-167724,26-01-2011,Ben Ferrer,East,Office Supplies,Labels,7.83,3.6018
+US-2021-122336,26-01-2011,Jonathan Doherty,East,Technology,Phones,71.928,8.3916
+US-2021-120740,26-01-2011,Paul Stevenson,West,Furniture,Furnishings,187.76,76.9816
+US-2021-120740,26-01-2011,Paul Stevenson,West,Office Supplies,Appliances,106.96,31.0184
+US-2021-155208,26-01-2011,Stephanie Phelps,South,Office Supplies,Art,39.072,9.768
+US-2021-100678,26-01-2011,Kunst Miller,Central,Furniture,Chairs,317.058,-18.1176
+US-2021-110849,27-01-2011,John Lee,West,Office Supplies,Art,10.75,3.5475
+US-2021-100678,27-01-2011,Kunst Miller,Central,Office Supplies,Art,2.688,1.008
+US-2021-110849,27-01-2011,John Lee,West,Office Supplies,Art,13.12,3.8048
+US-2021-100678,27-01-2011,Kunst Miller,Central,Office Supplies,Envelopes,149.352,50.4063
+US-2021-110849,27-01-2011,John Lee,West,Office Supplies,Fasteners,11.62,3.6022
+US-2021-100678,27-01-2011,Kunst Miller,Central,Technology,Accessories,227.976,28.497
+US-2021-110849,27-01-2011,John Lee,West,Technology,Machines,287.968,97.1892
+US-2021-169460,27-01-2011,Nicole Fjeld,West,Furniture,Furnishings,76.14,26.649
+US-2021-158470,27-01-2011,Allen Goldenen,South,Office Supplies,Binders,58.05,26.703
+US-2021-158470,27-01-2011,Allen Goldenen,South,Office Supplies,Paper,71.28,34.2144
+US-2021-101462,27-01-2011,Benjamin Patterson,West,Furniture,Furnishings,59.92,27.5632
+US-2021-134572,27-01-2011,Seth Vernon,Central,Furniture,Tables,744.1,-95.67
+US-2021-134572,27-01-2011,Seth Vernon,Central,Furniture,Tables,401.59,-131.951
+US-2021-134572,27-01-2011,Seth Vernon,Central,Office Supplies,Storage,44.84,5.605
+US-2021-158064,27-01-2011,Allen Armold,West,Office Supplies,Binders,16.52,5.5755
+US-2021-136336,27-01-2011,Dorothy Badders,South,Office Supplies,Storage,828.84,0
+US-2021-122070,27-01-2011,Aaron Hawkins,East,Office Supplies,Binders,9.912,3.3453
+US-2021-122070,27-01-2011,Aaron Hawkins,East,Office Supplies,Envelopes,247.84,121.4416
+US-2021-150119,27-01-2011,Laurel Beltran,East,Furniture,Chairs,281.372,-12.0588
+US-2021-150119,27-01-2011,Laurel Beltran,East,Furniture,Chairs,281.372,-12.0588
+US-2021-150119,27-01-2011,Laurel Beltran,East,Furniture,Furnishings,22.336,7.8176
+US-2021-150119,28-01-2011,Laurel Beltran,East,Office Supplies,Binders,7.488,-5.2416
+US-2021-112564,28-01-2011,Theresa Swint,East,Office Supplies,Binders,2.502,-1.7514
+US-2021-111857,28-01-2011,Nathan Mautz,West,Office Supplies,Paper,48.91,22.9877
+US-2021-166954,28-01-2011,Beth Thompson,West,Furniture,Chairs,1487.04,148.704
+US-2021-166954,28-01-2011,Beth Thompson,West,Furniture,Furnishings,303.25,63.6825
+US-2021-166954,28-01-2011,Beth Thompson,West,Office Supplies,Appliances,270.72,78.5088
+US-2021-157406,28-01-2011,Dianna Arnett,Central,Office Supplies,Art,6.24,0.546
+US-2021-157406,29-01-2011,Dianna Arnett,Central,Office Supplies,Paper,10.368,3.6288
+US-2021-110100,29-01-2011,Lena Creighton,South,Technology,Phones,302.376,37.797
+US-2021-147298,29-01-2011,Aleksandra Gannaway,West,Furniture,Chairs,230.28,23.028
+US-2021-116785,29-01-2011,Marc Harrigan,West,Office Supplies,Art,21.4,6.206
+US-2021-147298,30-01-2011,Aleksandra Gannaway,West,Office Supplies,Binders,18.288,5.715
+US-2021-116785,30-01-2011,Marc Harrigan,West,Office Supplies,Labels,12.6,5.796
+US-2021-118976,30-01-2011,Muhammed Yedwab,East,Office Supplies,Art,5.34,1.4952
+US-2021-118976,30-01-2011,Muhammed Yedwab,East,Office Supplies,Binders,20.86,9.387
+US-2021-118976,30-01-2011,Muhammed Yedwab,East,Office Supplies,Labels,3.15,1.512
+US-2021-140228,30-01-2011,George Bell,East,Office Supplies,Labels,6.912,2.5056
+US-2021-118976,30-01-2011,Muhammed Yedwab,East,Office Supplies,Storage,497.61,129.3786
+US-2021-140228,30-01-2011,George Bell,East,Office Supplies,Storage,177.568,-37.7332
+US-2021-140228,30-01-2011,George Bell,East,Office Supplies,Storage,27.096,2.0322
+US-2021-132983,31-01-2011,David Smith,East,Technology,Accessories,159.98,57.5928
+US-2021-131387,31-01-2011,Arianne Irving,West,Technology,Phones,1679.96,125.997
+US-2021-107811,31-01-2011,Laura Armstrong,South,Furniture,Chairs,561.584,70.198
+US-2021-142727,31-01-2011,Harry Greene,South,Furniture,Chairs,51.96,12.99
+US-2021-134061,31-01-2011,Lauren Leatherbury,East,Furniture,Furnishings,17.46,5.9364
+US-2021-142727,31-01-2011,Harry Greene,South,Office Supplies,Binders,17.94,8.6112
+US-2021-107811,31-01-2011,Laura Armstrong,South,Office Supplies,Storage,99.92,-1.249
+US-2021-118304,31-01-2011,Katherine Hughes,East,Technology,Phones,19.98,5.1948
+US-2021-160094,31-01-2011,Justin MacKendrick,South,Office Supplies,Art,174.95,45.487
+US-2021-160094,31-01-2011,Justin MacKendrick,South,Office Supplies,Storage,826,214.76
+US-2021-156006,31-01-2011,Tamara Manning,South,Technology,Accessories,47.79,16.2486
+US-2021-115056,31-01-2011,Andrew Roberts,East,Office Supplies,Appliances,26.136,1.9602
+US-2021-124618,31-01-2011,Cari Schnelling,South,Technology,Copiers,479.984,89.997
+US-2021-135755,31-01-2011,Nathan Cano,East,Office Supplies,Binders,10.896,3.9498
+US-2021-135755,31-01-2011,Nathan Cano,East,Office Supplies,Binders,40.176,14.5638
+US-2021-130274,31-01-2011,Joni Sundaresam,Central,Office Supplies,Labels,21.56,10.3488
+US-2021-155271,31-01-2011,Andrew Allen,East,Furniture,Furnishings,27.46,9.8856
+US-2021-148194,31-01-2011,Bill Shonely,West,Furniture,Furnishings,12.18,3.8976
+US-2021-148194,31-01-2011,Bill Shonely,West,Office Supplies,Appliances,57.68,19.0344
+US-2021-111899,31-01-2011,Nat Carroll,Central,Office Supplies,Art,37.84,2.838
+US-2021-117709,1/2/2011,Paul MacIntyre,Central,Office Supplies,Binders,46.8,21.06
+US-2021-111899,1/2/2011,Nat Carroll,Central,Office Supplies,Fasteners,5.472,1.8468
+US-2021-110219,1/2/2011,Emily Burns,Central,Furniture,Chairs,127.869,-9.1335
+US-2021-166457,1/2/2011,Peter Fuller,South,Office Supplies,Art,6.56,1.9024
+US-2021-111934,1/2/2011,Giulietta Dortch,South,Office Supplies,Binders,11.88,5.346
+US-2021-111934,1/2/2011,Giulietta Dortch,South,Office Supplies,Paper,35.44,16.6568
+US-2021-166457,1/2/2011,Peter Fuller,South,Office Supplies,Paper,24.56,11.5432
+US-2021-166457,1/2/2011,Peter Fuller,South,Office Supplies,Paper,9.42,4.239
+US-2021-160738,1/2/2011,Katharine Harms,Central,Office Supplies,Storage,45.248,3.9592
+US-2021-154879,1/2/2011,Steve Nguyen,West,Office Supplies,Art,107.94,30.2232
+US-2021-121664,1/2/2011,Harold Pawlan,West,Office Supplies,Binders,140.736,52.776
+US-2021-154879,1/2/2011,Steve Nguyen,West,Office Supplies,Labels,5.78,2.7166
+US-2021-166086,1/2/2011,Carol Triggs,East,Furniture,Chairs,872.32,244.2496
+US-2021-166086,1/2/2011,Carol Triggs,East,Furniture,Tables,194.25,-38.85
+US-2021-166086,1/2/2011,Carol Triggs,East,Office Supplies,Art,8.64,2.5056
+US-2021-166086,1/2/2011,Carol Triggs,East,Office Supplies,Binders,16.14,7.9086
+CA-2021-166086,1/2/2011,Carol Triggs,East,Furniture,Chairs,872.32,244.2496
+CA-2021-166086,2/2/2011,Carol Triggs,East,Furniture,Tables,194.25,-38.85
+CA-2021-166086,2/2/2011,Carol Triggs,East,Office Supplies,Art,8.64,2.5056
+CA-2021-166086,2/2/2011,Carol Triggs,East,Office Supplies,Binders,16.14,7.9086
+US-2021-116666,2/2/2011,Kean Thornton,East,Technology,Copiers,1799.97,239.996
+US-2021-158771,2/2/2011,Sean Braxton,South,Office Supplies,Labels,9.45,4.536
+US-2021-158771,2/2/2011,Sean Braxton,South,Office Supplies,Labels,20.65,9.499
+US-2021-158771,2/2/2011,Sean Braxton,South,Office Supplies,Paper,45.36,21.7728
+US-2021-158771,2/2/2011,Sean Braxton,South,Office Supplies,Storage,83.25,14.985
+US-2021-102071,2/2/2011,Patrick Gardner,West,Technology,Accessories,167.97,40.3128
+US-2021-102071,2/2/2011,Patrick Gardner,West,Technology,Accessories,67.8,4.068
+US-2021-114181,2/2/2011,Art Foster,East,Furniture,Bookcases,349.965,-216.9783
+US-2021-103310,2/2/2011,Greg Matthias,West,Furniture,Chairs,256.784,32.098
+US-2021-114181,2/2/2011,Art Foster,East,Office Supplies,Art,22.32,5.301
+US-2021-159709,2/2/2011,Arianne Irving,West,Office Supplies,Envelopes,158.13,77.4837
+US-2021-103310,2/2/2011,Greg Matthias,West,Office Supplies,Paper,39.96,19.1808
+US-2021-103310,2/2/2011,Greg Matthias,West,Office Supplies,Supplies,41.04,11.0808
+US-2021-103310,2/2/2011,Greg Matthias,West,Technology,Phones,1432,125.3
+US-2021-159709,2/2/2011,Arianne Irving,West,Technology,Phones,43.6,4.36
+US-2021-152100,2/2/2011,Victoria Wilson,Central,Furniture,Chairs,1212.96,-69.312
+US-2021-103849,2/2/2011,Paul Gonzalez,Central,Furniture,Furnishings,66.112,-84.2928
+US-2021-127523,2/2/2011,Brooke Gillingham,East,Office Supplies,Appliances,35.91,9.6957
+US-2021-119172,2/2/2011,Harold Dahlen,Central,Office Supplies,Binders,104.58,-172.557
+US-2021-119172,2/2/2011,Harold Dahlen,Central,Office Supplies,Paper,17.472,5.6784
+US-2021-139017,2/2/2011,Raymond Messe,Central,Technology,Accessories,46.864,7.6154
+US-2021-103849,2/2/2011,Paul Gonzalez,Central,Technology,Accessories,58.112,7.264
+US-2021-103849,2/2/2011,Paul Gonzalez,Central,Technology,Phones,100.792,6.2995
+US-2021-127159,2/2/2011,Hunter Lopez,Central,Furniture,Furnishings,34.79,10.7849
+US-2021-155887,3/2/2011,Kean Thornton,East,Furniture,Tables,700.056,-130.0104
+US-2021-113768,3/2/2011,Aaron Hawkins,West,Furniture,Chairs,279.456,20.9592
+US-2021-140165,3/2/2011,Erica Hernandez,South,Office Supplies,Binders,398.352,-331.96
+US-2021-140165,3/2/2011,Erica Hernandez,South,Office Supplies,Fasteners,7.104,2.3976
+US-2021-113768,3/2/2011,Aaron Hawkins,West,Office Supplies,Paper,8,3.84
+US-2021-167164,3/2/2011,Alejandro Grove,West,Office Supplies,Storage,55.5,9.99
+US-2021-114433,3/2/2011,Naresj Patel,West,Technology,Accessories,149.97,52.4895
+US-2021-106810,4/2/2011,Anthony Johnson,South,Furniture,Furnishings,310.88,23.316
+US-2021-125150,4/2/2011,Pauline Webber,West,Furniture,Chairs,232.88,17.466
+US-2021-163146,4/2/2011,Cindy Chapman,West,Technology,Accessories,56.4,3.384
+US-2021-148761,4/2/2011,Pete Armstrong,Central,Office Supplies,Binders,91.68,45.84
+US-2021-164224,4/2/2011,Ted Trevino,East,Furniture,Furnishings,149.232,3.7308
+US-2021-164224,4/2/2011,Ted Trevino,East,Office Supplies,Paper,15.936,5.7768
+US-2021-133963,4/2/2011,George Ashbrook,Central,Office Supplies,Paper,3.984,1.4442
+US-2021-103373,4/2/2011,Bruce Stewart,East,Technology,Phones,779.796,-168.9558
+US-2021-107699,4/2/2011,John Huston,Central,Office Supplies,Binders,57.42,26.4132
+US-2021-130155,4/2/2011,Tamara Dahlen,South,Office Supplies,Supplies,34.2,9.234
+US-2021-114188,4/2/2011,Randy Ferguson,East,Furniture,Furnishings,139.86,60.1398
+US-2021-130673,4/2/2011,Matt Collister,Central,Furniture,Furnishings,10.332,-5.9409
+US-2021-114188,5/2/2011,Randy Ferguson,East,Office Supplies,Appliances,33.28,9.3184
+US-2021-114188,5/2/2011,Randy Ferguson,East,Office Supplies,Art,38.52,11.9412
+US-2021-130673,5/2/2011,Matt Collister,Central,Office Supplies,Paper,10.368,3.6288
+US-2021-130673,5/2/2011,Matt Collister,Central,Office Supplies,Storage,66.96,-13.392
+US-2021-130673,5/2/2011,Matt Collister,Central,Technology,Accessories,20.784,-3.6372
+CA-2021-166695,5/2/2011,Chuck Clark,West,Furniture,Chairs,518.27,-97.18
+CA-2021-166695,6/2/2011,Chuck Clark,West,Furniture,Furnishings,6.98,3.35
+CA-2021-166695,7/2/2011,Chuck Clark,West,Technology,Machines,343.2,38.61
+US-2021-127166,7/2/2011,Katherine Hughes,Central,Furniture,Chairs,107.772,-29.2524
+US-2021-152443,7/2/2011,Frank Gastineau,East,Office Supplies,Appliances,245.88,68.8464
+US-2021-104780,7/2/2011,Bradley Talbott,West,Office Supplies,Art,31.84,10.5072
+US-2021-127166,7/2/2011,Katherine Hughes,Central,Office Supplies,Binders,18.24,-31.008
+US-2021-152443,7/2/2011,Frank Gastineau,East,Office Supplies,Binders,447.86,219.4514
+US-2021-117639,7/2/2011,Mitch Willingham,South,Office Supplies,Binders,2715.93,1276.4871
+US-2021-127166,7/2/2011,Katherine Hughes,Central,Office Supplies,Envelopes,56.064,21.024
+US-2021-127166,7/2/2011,Katherine Hughes,Central,Office Supplies,Paper,4.832,1.6308
+US-2021-152443,7/2/2011,Frank Gastineau,East,Office Supplies,Paper,17.94,8.7906
+US-2021-117639,7/2/2011,Mitch Willingham,South,Technology,Phones,617.97,173.0316
+CA-2021-152443,7/2/2011,Frank Gastineau,East,Office Supplies,Appliances,245.88,68.8464
+CA-2021-152443,7/2/2011,Frank Gastineau,East,Office Supplies,Binders,447.86,219.4514
+CA-2021-152443,8/2/2011,Frank Gastineau,East,Office Supplies,Paper,17.94,8.7906
+US-2021-143840,8/2/2011,Evan Henry,South,Technology,Phones,135.98,33.995
+US-2021-143840,8/2/2011,Evan Henry,South,Technology,Phones,44.95,12.586
+US-2021-135881,8/2/2011,Greg Tran,East,Office Supplies,Appliances,208.16,56.2032
+US-2021-105767,8/2/2011,Andrew Roberts,East,Office Supplies,Art,21.168,2.3814
+US-2021-135881,8/2/2011,Greg Tran,East,Office Supplies,Binders,17.96,5.837
+US-2021-105767,8/2/2011,Andrew Roberts,East,Office Supplies,Binders,3.282,-2.6256
+US-2021-138513,8/2/2011,Erica Hackney,West,Office Supplies,Paper,12.96,6.2208
+US-2021-135881,8/2/2011,Greg Tran,East,Office Supplies,Supplies,5.04,0.1512
+US-2021-105767,8/2/2011,Andrew Roberts,East,Technology,Phones,55.188,-10.1178
+US-2021-143413,9/2/2011,Resi Pölking,East,Office Supplies,Paper,116.28,56.9772
+US-2021-130379,9/2/2011,Janet Lee,Central,Furniture,Furnishings,29.32,-24.189
+US-2021-130379,9/2/2011,Janet Lee,Central,Office Supplies,Appliances,75.6,-166.32
+US-2021-100391,9/2/2011,Barry Weirich,East,Office Supplies,Paper,14.62,6.7252
+US-2021-156349,9/2/2011,Marina Lichtenstein,West,Furniture,Bookcases,290.666,27.3568
+US-2021-158029,9/2/2011,Herbert Flentye,West,Furniture,Chairs,225.296,22.5296
+US-2021-144029,9/2/2011,Michelle Moray,Central,Furniture,Chairs,359.772,-5.1396
+US-2021-144029,9/2/2011,Michelle Moray,Central,Office Supplies,Art,13.392,3.1806
+US-2021-129574,9/2/2011,Dean percer,West,Office Supplies,Paper,48.4,23.232
+US-2021-144029,9/2/2011,Michelle Moray,Central,Office Supplies,Storage,102.624,7.6968
+US-2021-156349,9/2/2011,Marina Lichtenstein,West,Technology,Phones,201.584,20.1584
+US-2021-156349,9/2/2011,Marina Lichtenstein,West,Technology,Phones,83.984,31.494
+US-2021-124429,9/2/2011,Maya Herman,West,Furniture,Tables,567.12,-28.356
+US-2021-117058,9/2/2011,Laurel Elliston,Central,Office Supplies,Binders,17.46,-30.555
+US-2021-124429,9/2/2011,Maya Herman,West,Office Supplies,Storage,359.32,7.1864
+US-2021-139192,9/2/2011,Lena Creighton,West,Technology,Accessories,99.99,37.9962
+US-2021-139192,9/2/2011,Lena Creighton,West,Technology,Phones,1113.504,125.2692
+US-2021-108861,9/2/2011,Magdelene Morse,West,Office Supplies,Binders,136.96,51.36
+US-2021-135993,9/2/2011,Patrick Jones,West,Technology,Accessories,27.6,2.208
+US-2021-135993,9/2/2011,Patrick Jones,West,Technology,Phones,57.408,5.7408
+US-2021-145800,9/2/2011,Shahid Shariari,Central,Furniture,Tables,355.455,-184.8366
+US-2021-103429,9/2/2011,Laurel Workman,East,Office Supplies,Appliances,235.95,77.8635
+US-2021-105872,10/2/2011,James Galang,East,Office Supplies,Binders,70.368,26.388
+US-2021-103429,10/2/2011,Laurel Workman,East,Office Supplies,Binders,25.584,8.9544
+US-2021-146885,10/2/2011,Ellis Ballard,South,Office Supplies,Paper,13.62,6.129
+US-2021-103429,10/2/2011,Laurel Workman,East,Office Supplies,Paper,39.96,17.982
+US-2021-140473,10/2/2011,Mark Cousins,Central,Technology,Copiers,719.976,134.9955
+US-2021-103429,10/2/2011,Laurel Workman,East,Technology,Phones,464,134.56
+US-2021-166051,10/2/2011,Jim Karlsson,South,Technology,Phones,113.73,32.9817
+US-2021-166051,10/2/2011,Jim Karlsson,South,Technology,Phones,659.97,197.991
+US-2021-131926,10/2/2011,Dianna Wilson,Central,Furniture,Chairs,2001.86,580.5394
+US-2021-165659,10/2/2011,Liz Thompson,South,Furniture,Furnishings,22.2,9.102
+US-2021-131926,10/2/2011,Dianna Wilson,Central,Office Supplies,Appliances,1503.25,496.0725
+US-2021-157070,10/2/2011,Quincy Jones,Central,Office Supplies,Appliances,65.52,12.376
+US-2021-111003,10/2/2011,Corey Roper,East,Office Supplies,Art,289.2,83.868
+US-2021-111003,10/2/2011,Corey Roper,East,Office Supplies,Binders,45.48,20.9208
+US-2021-157070,10/2/2011,Quincy Jones,Central,Office Supplies,Binders,138.56,66.5088
+US-2021-131926,10/2/2011,Dianna Wilson,Central,Office Supplies,Paper,25.92,12.4416
+US-2021-131926,10/2/2011,Dianna Wilson,Central,Office Supplies,Paper,47.88,23.94
+US-2021-131926,10/2/2011,Dianna Wilson,Central,Office Supplies,Storage,166.72,41.68
+US-2021-165659,10/2/2011,Liz Thompson,South,Technology,Phones,881.93,229.3018
+US-2021-104472,10/2/2011,Christine Kargatis,West,Furniture,Furnishings,73.32,21.996
+US-2021-100895,10/2/2011,Stewart Visinsky,South,Office Supplies,Art,8.56,2.6536
+US-2021-104472,10/2/2011,Christine Kargatis,West,Office Supplies,Binders,59.808,19.4376
+US-2021-100895,10/2/2011,Stewart Visinsky,South,Office Supplies,Storage,356.94,107.082
+US-2021-100895,10/2/2011,Stewart Visinsky,South,Technology,Phones,239.97,67.1916
+US-2021-163867,10/2/2011,Richard Eichhorn,Central,Furniture,Furnishings,61.544,-40.0036
+US-2021-135657,10/2/2011,Steven Cartwright,West,Furniture,Tables,515.88,113.4936
+US-2021-141299,10/2/2011,Ross Baird,Central,Office Supplies,Envelopes,15.28,7.4872
+US-2021-163867,10/2/2011,Richard Eichhorn,Central,Office Supplies,Labels,15.936,5.1792
+US-2021-163867,10/2/2011,Richard Eichhorn,Central,Office Supplies,Storage,132.696,9.9522
+US-2021-151946,10/2/2011,Bobby Trafton,East,Furniture,Bookcases,353.568,-44.196
+US-2021-151946,11/2/2011,Bobby Trafton,East,Furniture,Furnishings,13.96,6.7008
+US-2021-151946,11/2/2011,Bobby Trafton,East,Furniture,Furnishings,56.96,21.0752
+US-2021-151946,11/2/2011,Bobby Trafton,East,Office Supplies,Appliances,15.56,4.0456
+US-2021-147914,11/2/2011,Mark Packer,East,Office Supplies,Paper,16.224,5.8812
+US-2021-159520,11/2/2011,Grant Thornton,East,Furniture,Tables,991.764,-347.1174
+US-2021-133270,11/2/2011,Bryan Mills,East,Office Supplies,Art,13.36,4.9432
+US-2021-169257,11/2/2011,Stewart Visinsky,South,Office Supplies,Binders,1.365,-0.91
+US-2021-161305,11/2/2011,Sarah Bern,Central,Office Supplies,Binders,24.588,-38.1114
+US-2021-159520,12/2/2011,Grant Thornton,East,Office Supplies,Binders,149.544,50.4711
+US-2021-161305,12/2/2011,Sarah Bern,Central,Office Supplies,Envelopes,13.984,4.7196
+US-2021-151897,12/2/2011,Valerie Takahito,Central,Office Supplies,Labels,100.24,33.831
+US-2021-169257,12/2/2011,Stewart Visinsky,South,Office Supplies,Paper,62.016,22.4808
+US-2021-159520,12/2/2011,Grant Thornton,East,Office Supplies,Supplies,17.14,4.4564
+US-2021-106229,12/2/2011,Nick Radford,Central,Furniture,Tables,268.935,-209.7693
+US-2021-134971,12/2/2011,Bart Pistole,Central,Office Supplies,Binders,12.462,-20.5623
+US-2021-109162,12/2/2011,Katrina Edelman,South,Furniture,Chairs,170.352,10.647
+US-2021-141257,12/2/2011,Carlos Soltero,West,Furniture,Chairs,585.552,73.194
+US-2021-108147,12/2/2011,Rick Duston,East,Office Supplies,Binders,68.48,25.68
+US-2021-108147,12/2/2011,Rick Duston,East,Office Supplies,Storage,1676.88,83.844
+US-2021-115812,12/2/2011,Brosina Hoffman,West,Furniture,Furnishings,48.86,14.1694
+US-2021-160262,12/2/2011,Thomas Seio,West,Furniture,Furnishings,37.4,14.212
+US-2021-115812,12/2/2011,Brosina Hoffman,West,Furniture,Tables,1706.184,85.3092
+US-2021-132612,13-02-2011,Frank Olsen,South,Furniture,Tables,1441.3,245.021
+US-2021-115812,14-02-2011,Brosina Hoffman,West,Office Supplies,Appliances,114.9,34.47
+US-2021-133753,14-02-2011,Carl Weiss,Central,Office Supplies,Art,70.368,6.1572
+US-2021-160262,14-02-2011,Thomas Seio,West,Office Supplies,Art,18.06,4.6956
+US-2021-115812,14-02-2011,Brosina Hoffman,West,Office Supplies,Art,7.28,1.9656
+US-2021-133851,14-02-2011,Chuck Magee,West,Office Supplies,Art,23.1,10.626
+US-2021-115812,14-02-2011,Brosina Hoffman,West,Office Supplies,Binders,18.504,5.7825
+US-2021-160262,14-02-2011,Thomas Seio,West,Office Supplies,Paper,79.14,36.4044
+US-2021-133851,14-02-2011,Chuck Magee,West,Office Supplies,Supplies,7.36,0.1472
+US-2021-133753,14-02-2011,Carl Weiss,Central,Technology,Accessories,63.984,10.3974
+US-2021-133753,14-02-2011,Carl Weiss,Central,Technology,Phones,7.992,0.5994
+US-2021-115812,14-02-2011,Brosina Hoffman,West,Technology,Phones,911.424,68.3568
+US-2021-115812,14-02-2011,Brosina Hoffman,West,Technology,Phones,907.152,90.7152
+US-2021-144281,14-02-2011,Heather Kirkland,Central,Office Supplies,Labels,491.55,240.8595
+US-2021-114643,14-02-2011,Filia McAdams,West,Office Supplies,Art,14.52,4.7916
+US-2021-140487,14-02-2011,Sharelle Roach,Central,Furniture,Bookcases,212.94,57.4938
+US-2021-141215,14-02-2011,Kelly Lampkin,Central,Furniture,Chairs,797.944,-56.996
+US-2021-141215,14-02-2011,Kelly Lampkin,Central,Furniture,Tables,99.918,-18.5562
+US-2021-141215,14-02-2011,Kelly Lampkin,Central,Office Supplies,Binders,8.568,-14.5656
+US-2021-126963,14-02-2011,Pamela Stobb,Central,Office Supplies,Paper,36.544,11.8768
+US-2021-136644,14-02-2011,Sonia Cooley,Central,Furniture,Chairs,647.84,32.392
+US-2021-113929,14-02-2011,Chloris Kastensmidt,East,Office Supplies,Art,35,10.5
+US-2021-113929,14-02-2011,Chloris Kastensmidt,East,Office Supplies,Binders,39.552,14.3376
+US-2021-113929,15-02-2011,Chloris Kastensmidt,East,Office Supplies,Envelopes,41.4,19.458
+US-2021-144414,15-02-2011,Gary Hwang,West,Furniture,Furnishings,6.24,2.6208
+US-2021-144414,15-02-2011,Gary Hwang,West,Office Supplies,Binders,3266.376,1061.5722
+US-2021-144414,15-02-2011,Gary Hwang,West,Office Supplies,Fasteners,17.9,8.95
+US-2021-156342,15-02-2011,Jennifer Ferguson,Central,Office Supplies,Paper,62.016,22.4808
+US-2021-104402,15-02-2011,Duane Benoit,East,Technology,Machines,65.97,31.0059
+US-2021-123855,15-02-2011,Mick Crebagga,West,Technology,Phones,139.8,12.2325
+CA-2021-184712,15-02-2011,Neil Cohen,East,Office Supplies,Paper,74.352,23.235
+US-2021-166863,15-02-2011,Sam Craven,Central,Furniture,Bookcases,193.0656,-19.8744
+US-2021-112949,15-02-2011,Corey-Lock,Central,Office Supplies,Appliances,471.9,155.727
+US-2021-112949,15-02-2011,Corey-Lock,Central,Office Supplies,Art,3.52,1.6896
+US-2021-166863,15-02-2011,Sam Craven,Central,Office Supplies,Binders,3.392,-5.088
+US-2021-166863,15-02-2011,Sam Craven,Central,Office Supplies,Paper,11.648,4.0768
+US-2021-166863,15-02-2011,Sam Craven,Central,Office Supplies,Paper,15.552,5.4432
+US-2021-166863,15-02-2011,Sam Craven,Central,Office Supplies,Storage,509.488,-127.372
+US-2021-166863,15-02-2011,Sam Craven,Central,Technology,Machines,418.8,-97.72
+US-2021-166863,15-02-2011,Sam Craven,Central,Technology,Phones,201.584,20.1584
+US-2021-138317,15-02-2011,Natalie Webber,East,Furniture,Furnishings,3.984,0.6474
+US-2021-117135,15-02-2011,Naresj Patel,South,Furniture,Furnishings,104.01,14.5614
+US-2021-130624,15-02-2011,Toby Braunhardt,East,Office Supplies,Appliances,59.7,26.865
+US-2021-138317,15-02-2011,Natalie Webber,East,Office Supplies,Appliances,44.416,3.8864
+US-2021-128146,15-02-2011,Dave Brooks,East,Office Supplies,Art,3.76,1.0904
+US-2021-141278,16-02-2011,Raymond Messe,East,Office Supplies,Art,21.4,6.206
+US-2021-138317,16-02-2011,Natalie Webber,East,Office Supplies,Binders,9.006,-7.2048
+US-2021-160780,16-02-2011,Stewart Visinsky,West,Office Supplies,Binders,11.088,-8.1312
+US-2021-160780,16-02-2011,Stewart Visinsky,West,Office Supplies,Binders,25.164,-16.776
+US-2021-138317,16-02-2011,Natalie Webber,East,Office Supplies,Envelopes,24.896,8.4024
+US-2021-130624,16-02-2011,Toby Braunhardt,East,Office Supplies,Paper,19.65,9.039
+US-2021-117135,16-02-2011,Naresj Patel,South,Office Supplies,Storage,36.84,10.3152
+US-2021-138317,16-02-2011,Natalie Webber,East,Technology,Accessories,95.968,28.7904
+US-2021-138317,16-02-2011,Natalie Webber,East,Technology,Machines,206.991,-172.4925
+US-2021-141796,16-02-2011,James Galang,East,Technology,Phones,1214.85,352.3065
+US-2021-117135,16-02-2011,Naresj Patel,South,Technology,Phones,284.82,74.0532
+US-2021-130624,16-02-2011,Toby Braunhardt,East,Technology,Phones,617.97,160.6722
+US-2021-128146,16-02-2011,Dave Brooks,East,Technology,Phones,1322.93,357.1911
+US-2021-154963,16-02-2011,Anna Andreadi,East,Furniture,Chairs,853.93,0
+US-2021-154963,16-02-2011,Anna Andreadi,East,Furniture,Chairs,170.058,-4.8588
+US-2021-133389,16-02-2011,Toby Braunhardt,West,Office Supplies,Binders,8.226,-6.0324
+US-2021-124646,16-02-2011,Dianna Vittorini,Central,Office Supplies,Storage,501.81,0
+US-2021-124646,16-02-2011,Dianna Vittorini,Central,Office Supplies,Storage,161.94,9.7164
+US-2021-142048,16-02-2011,Joel Eaton,West,Technology,Accessories,196.752,56.5662
+US-2021-154963,16-02-2011,Anna Andreadi,East,Technology,Phones,82.782,-15.1767
+US-2021-130358,17-02-2011,Denise Leinenbach,South,Office Supplies,Art,20.016,1.7514
+US-2021-130358,17-02-2011,Denise Leinenbach,South,Office Supplies,Supplies,3.104,0.3492
+US-2021-126032,17-02-2011,Brian Stugart,East,Technology,Accessories,86.376,1.0797
+US-2021-159814,17-02-2011,Liz Pelletier,West,Furniture,Furnishings,4.272,0.9612
+US-2021-159338,17-02-2011,Noel Staavos,West,Furniture,Tables,447.84,11.196
+US-2021-164469,17-02-2011,Grace Kelly,West,Office Supplies,Art,9.328,0.8162
+US-2021-164469,17-02-2011,Grace Kelly,West,Office Supplies,Art,71.632,17.908
+US-2021-164469,17-02-2011,Grace Kelly,West,Technology,Phones,263.96,19.797
+US-2021-104283,17-02-2011,Liz MacKendrick,South,Furniture,Tables,85.98,22.3548
+US-2021-104283,17-02-2011,Liz MacKendrick,South,Office Supplies,Storage,306.2,0
+US-2021-104283,18-02-2011,Liz MacKendrick,South,Technology,Accessories,223.96,53.7504
+US-2021-140858,18-02-2011,Cynthia Arntzen,East,Furniture,Chairs,1228.465,0
+US-2021-140858,18-02-2011,Cynthia Arntzen,East,Office Supplies,Binders,3.168,-2.4288
+US-2021-140858,18-02-2011,Cynthia Arntzen,East,Office Supplies,Binders,31.086,-22.7964
+US-2021-156993,18-02-2011,Rob Williams,Central,Office Supplies,Fasteners,6.08,3.04
+US-2021-140858,18-02-2011,Cynthia Arntzen,East,Office Supplies,Paper,41.472,14.5152
+US-2021-140858,18-02-2011,Cynthia Arntzen,East,Office Supplies,Paper,335.52,117.432
+US-2021-165974,18-02-2011,Dan Lawera,East,Office Supplies,Art,32.76,3.6855
+US-2021-111773,18-02-2011,Jim Karlsson,East,Office Supplies,Binders,13.92,4.872
+US-2021-121566,18-02-2011,Cari Schnelling,East,Office Supplies,Art,6.6,2.904
+US-2021-109218,18-02-2011,Anthony Rawles,West,Office Supplies,Art,32.4,10.368
+US-2021-123064,18-02-2011,Russell Applegate,Central,Office Supplies,Art,5.248,1.64
+US-2021-146640,18-02-2011,Helen Abelman,East,Office Supplies,Binders,334.768,108.7996
+US-2021-121566,18-02-2011,Cari Schnelling,East,Office Supplies,Binders,2.688,0.84
+US-2021-116757,18-02-2011,Michael Stewart,Central,Office Supplies,Fasteners,21.312,7.1928
+US-2021-152254,18-02-2011,Brian DeCherney,South,Office Supplies,Paper,310.688,108.7408
+US-2021-116757,19-02-2011,Michael Stewart,Central,Office Supplies,Paper,25.92,9.072
+US-2021-160773,19-02-2011,Laurel Workman,South,Office Supplies,Binders,5.184,-3.6288
+US-2021-153150,19-02-2011,Dorris liebe,West,Office Supplies,Binders,19.92,6.972
+US-2021-160773,21-02-2011,Laurel Workman,South,Technology,Phones,575.92,71.99
+US-2021-107594,21-02-2011,Eric Hoffmann,East,Office Supplies,Art,5.58,2.1762
+US-2021-107594,21-02-2011,Eric Hoffmann,East,Technology,Phones,73.98,19.9746
+US-2021-120096,21-02-2011,Katrina Edelman,West,Office Supplies,Appliances,32.432,3.2432
+US-2021-138709,21-02-2011,Maxwell Schwartz,South,Office Supplies,Binders,15.6,7.644
+US-2021-120096,21-02-2011,Katrina Edelman,West,Office Supplies,Paper,177.536,62.1376
+US-2021-138709,21-02-2011,Maxwell Schwartz,South,Office Supplies,Paper,21.84,10.92
+US-2021-103317,21-02-2011,Don Miller,South,Furniture,Furnishings,19.52,5.368
+US-2021-103317,21-02-2011,Don Miller,South,Furniture,Furnishings,213.216,15.9912
+US-2021-152849,21-02-2011,David Wiener,South,Office Supplies,Art,4.368,0.3822
+US-2021-107139,21-02-2011,Dennis Pardue,West,Office Supplies,Binders,180.96,67.86
+US-2021-103317,21-02-2011,Don Miller,South,Office Supplies,Binders,9.81,-6.867
+US-2021-157784,21-02-2011,Michael Chen,South,Office Supplies,Labels,14.62,6.8714
+US-2021-157784,21-02-2011,Michael Chen,South,Office Supplies,Paper,19.44,9.3312
+US-2021-160444,21-02-2011,Dan Campbell,Central,Office Supplies,Storage,281.424,-35.178
+US-2021-160444,21-02-2011,Dan Campbell,Central,Office Supplies,Storage,220.776,-44.1552
+US-2021-157784,21-02-2011,Michael Chen,South,Technology,Accessories,479.97,163.1898
+US-2021-147543,21-02-2011,Becky Castell,West,Furniture,Chairs,478.48,47.848
+US-2021-134278,21-02-2011,Emily Phan,East,Technology,Copiers,559.992,174.9975
+US-2021-138758,21-02-2011,John Lee,East,Furniture,Chairs,172.186,-46.7362
+US-2021-138758,21-02-2011,John Lee,East,Furniture,Furnishings,69.008,12.0764
+US-2021-150301,22-02-2011,Michelle Huthwaite,East,Furniture,Chairs,63.882,10.647
+US-2021-100090,22-02-2011,Ed Braxton,West,Furniture,Tables,502.488,-87.9354
+US-2021-100090,22-02-2011,Ed Braxton,West,Office Supplies,Binders,196.704,68.8464
+US-2021-113271,22-02-2011,Darrin Sayre,West,Furniture,Bookcases,119.833,7.049
+US-2021-113271,22-02-2011,Darrin Sayre,West,Office Supplies,Art,5.56,2.224
+US-2021-113271,22-02-2011,Darrin Sayre,West,Office Supplies,Binders,14.304,4.6488
+US-2021-114125,22-02-2011,Gary Hansen,West,Office Supplies,Binders,41.904,14.1426
+US-2021-114125,22-02-2011,Gary Hansen,West,Office Supplies,Labels,2.88,1.4112
+US-2021-165379,22-02-2011,Brian Moss,Central,Office Supplies,Paper,14.352,4.485
+US-2021-113271,22-02-2011,Darrin Sayre,West,Office Supplies,Paper,32.4,15.552
+US-2021-165379,22-02-2011,Brian Moss,Central,Office Supplies,Paper,10.368,3.6288
+US-2021-114125,22-02-2011,Gary Hansen,West,Office Supplies,Storage,23.92,4.0664
+US-2021-163552,22-02-2011,Laura Armstrong,East,Furniture,Chairs,854.94,213.735
+US-2021-163552,22-02-2011,Laura Armstrong,East,Furniture,Furnishings,124.11,52.1262
+US-2021-133305,22-02-2011,Mark Hamilton,East,Office Supplies,Binders,18.28,6.398
+US-2021-163552,22-02-2011,Laura Armstrong,East,Office Supplies,Labels,14.4,7.056
+US-2021-163552,22-02-2011,Laura Armstrong,East,Office Supplies,Paper,177.2,83.284
+US-2021-123225,22-02-2011,Michael Nguyen,Central,Office Supplies,Paper,10.368,3.6288
+US-2021-133305,22-02-2011,Mark Hamilton,East,Office Supplies,Paper,49.12,23.0864
+US-2021-123225,22-02-2011,Michael Nguyen,Central,Technology,Phones,575.968,43.1976
+US-2021-163552,23-02-2011,Laura Armstrong,East,Technology,Phones,197.97,57.4113
+US-2021-166555,23-02-2011,Jamie Kunitz,East,Technology,Phones,164.85,47.8065
+US-2021-131310,23-02-2011,Clay Ludtke,West,Furniture,Chairs,123.136,13.8528
+US-2021-161508,23-02-2011,Paul Van Hugh,Central,Furniture,Chairs,512.358,-14.6388
+US-2021-129924,23-02-2011,Alyssa Crouse,West,Furniture,Tables,698.352,-17.4588
+US-2021-161508,23-02-2011,Paul Van Hugh,Central,Office Supplies,Art,22.288,3.9004
+US-2021-131310,23-02-2011,Clay Ludtke,West,Office Supplies,Binders,11.264,3.8016
+US-2021-129924,23-02-2011,Alyssa Crouse,West,Office Supplies,Binders,7.712,2.7956
+US-2021-161508,23-02-2011,Paul Van Hugh,Central,Office Supplies,Fasteners,3.488,0.5668
+US-2021-124807,23-02-2011,Max Engle,Central,Office Supplies,Paper,35.856,12.9978
+US-2021-161508,23-02-2011,Paul Van Hugh,Central,Office Supplies,Paper,16.032,5.6112
+US-2021-110184,24-02-2011,Ben Ferrer,West,Office Supplies,Storage,249.75,44.955
+US-2021-124807,24-02-2011,Max Engle,Central,Technology,Accessories,23.84,3.278
+US-2021-110184,24-02-2011,Ben Ferrer,West,Technology,Phones,255.936,28.7928
+US-2021-165862,24-02-2011,Grace Kelly,West,Furniture,Tables,351.216,4.3902
+US-2021-164182,24-02-2011,Shui Tom,East,Furniture,Furnishings,31.984,1.1994
+US-2021-124464,24-02-2011,Shirley Schmidt,East,Office Supplies,Appliances,39.48,11.0544
+US-2021-164182,24-02-2011,Shui Tom,East,Office Supplies,Art,41.584,4.6782
+US-2021-109904,24-02-2011,Barbara Fisher,East,Office Supplies,Art,17.94,4.485
+US-2021-103905,24-02-2011,Arthur Wiediger,Central,Office Supplies,Binders,29.932,-46.3946
+US-2021-150532,24-02-2011,Philip Brown,West,Office Supplies,Storage,55.92,6.291
+US-2021-103905,24-02-2011,Arthur Wiediger,Central,Technology,Phones,38.272,3.8272
+US-2021-164182,24-02-2011,Shui Tom,East,Technology,Phones,13.494,-2.249
+US-2021-164182,24-02-2011,Shui Tom,East,Technology,Phones,23.988,-13.993
+US-2021-115980,24-02-2011,Victoria Wilson,Central,Office Supplies,Fasteners,6.54,2.6814
+US-2021-115980,24-02-2011,Victoria Wilson,Central,Technology,Accessories,2.97,1.3068
+US-2021-123295,24-02-2011,Adrian Hane,West,Furniture,Chairs,259.136,-25.9136
+US-2021-138198,24-02-2011,Jack Lebron,East,Office Supplies,Binders,13.904,4.5188
+US-2021-150434,24-02-2011,Christine Abelman,East,Furniture,Tables,70.56,-4.032
+US-2021-168158,24-02-2011,Eugene Moren,West,Office Supplies,Binders,6.096,2.2098
+US-2021-150434,24-02-2011,Christine Abelman,East,Office Supplies,Binders,3.81,1.8288
+US-2021-150434,24-02-2011,Christine Abelman,East,Office Supplies,Binders,20.88,9.6048
+US-2021-150434,25-02-2011,Christine Abelman,East,Technology,Phones,359.98,93.5948
+US-2021-143903,25-02-2011,Katherine Murray,Central,Furniture,Chairs,981.372,-140.196
+US-2021-141726,25-02-2011,Charles Crestani,West,Furniture,Furnishings,43.02,15.4872
+US-2021-143903,25-02-2011,Katherine Murray,Central,Furniture,Furnishings,16.74,-14.229
+US-2021-127866,25-02-2011,Jonathan Doherty,West,Office Supplies,Art,13.12,3.8048
+US-2021-142965,25-02-2011,Scot Wooten,East,Office Supplies,Binders,27.36,-21.888
+US-2021-141726,25-02-2011,Charles Crestani,West,Office Supplies,Binders,8.704,3.1552
+US-2021-157546,25-02-2011,Roger Demir,West,Office Supplies,Binders,89.712,30.2778
+US-2021-141726,25-02-2011,Charles Crestani,West,Office Supplies,Paper,104.85,50.328
+US-2021-141726,25-02-2011,Charles Crestani,West,Office Supplies,Paper,19.92,9.7608
+US-2021-127866,25-02-2011,Jonathan Doherty,West,Office Supplies,Paper,11.96,5.8604
+US-2021-157546,25-02-2011,Roger Demir,West,Office Supplies,Paper,22.83,10.7301
+US-2021-127866,25-02-2011,Jonathan Doherty,West,Office Supplies,Storage,535.41,160.623
+US-2021-142965,26-02-2011,Scot Wooten,East,Office Supplies,Storage,25.984,-5.1968
+US-2021-143903,26-02-2011,Katherine Murray,Central,Office Supplies,Storage,342.864,38.5722
+US-2021-127866,26-02-2011,Jonathan Doherty,West,Technology,Accessories,41.94,15.0984
+US-2021-116932,26-02-2011,Michelle Ellison,West,Furniture,Chairs,801.568,50.098
+US-2021-129189,26-02-2011,Harry Marie,Central,Furniture,Chairs,657.93,-93.99
+US-2021-116932,26-02-2011,Michelle Ellison,West,Furniture,Tables,272.848,27.2848
+US-2021-129189,26-02-2011,Harry Marie,Central,Office Supplies,Appliances,4.992,-12.9792
+US-2021-116932,26-02-2011,Michelle Ellison,West,Office Supplies,Art,99.2,25.792
+US-2021-129189,26-02-2011,Harry Marie,Central,Office Supplies,Binders,1.044,-1.827
+US-2021-129189,26-02-2011,Harry Marie,Central,Office Supplies,Envelopes,87.92,29.673
+US-2021-109890,26-02-2011,Patrick Gardner,Central,Technology,Phones,35.98,10.0744
+US-2021-117464,26-02-2011,Naresj Patel,West,Furniture,Chairs,717.72,71.772
+US-2021-117464,26-02-2011,Naresj Patel,West,Furniture,Tables,170.352,19.1646
+US-2021-127691,26-02-2011,Erin Mull,East,Office Supplies,Art,5.96,1.6688
+US-2021-117464,26-02-2011,Naresj Patel,West,Office Supplies,Art,11.52,3.2256
+US-2021-122679,26-02-2011,Alejandro Ballentine,West,Office Supplies,Art,19.68,6.4944
+US-2021-117464,26-02-2011,Naresj Patel,West,Office Supplies,Storage,236.5,68.585
+US-2021-164644,26-02-2011,John Lucas,Central,Office Supplies,Storage,26.632,1.3316
+US-2021-127691,26-02-2011,Erin Mull,East,Technology,Accessories,159.98,57.5928
+US-2021-119137,26-02-2011,Arthur Gainer,West,Office Supplies,Art,9.24,0.924
+US-2021-119137,27-02-2011,Arthur Gainer,West,Office Supplies,Binders,8.16,-5.712
+US-2021-145254,28-02-2011,Nick Crebassa,West,Office Supplies,Supplies,40.7,11.803
+US-2021-103058,28-02-2011,Alejandro Grove,East,Technology,Accessories,99.98,7.9984
+US-2021-119137,28-02-2011,Arthur Gainer,West,Technology,Accessories,479.04,-29.94
+US-2021-145254,28-02-2011,Nick Crebassa,West,Technology,Accessories,45,4.95
+US-2021-119137,28-02-2011,Arthur Gainer,West,Technology,Accessories,1023.936,179.1888
+US-2021-145254,28-02-2011,Nick Crebassa,West,Technology,Phones,604.752,60.4752
+US-2021-145254,28-02-2011,Nick Crebassa,West,Technology,Phones,302.376,37.797
+US-2021-143917,28-02-2011,Ken Lonsdale,West,Furniture,Furnishings,77.92,34.2848
+US-2021-146528,28-02-2011,Vicky Freymann,West,Office Supplies,Paper,6.48,3.1752
+US-2021-143917,28-02-2011,Ken Lonsdale,West,Office Supplies,Storage,53.72,15.0416
+US-2021-143917,1/3/2011,Ken Lonsdale,West,Office Supplies,Supplies,8187.65,327.506
+US-2021-146528,1/3/2011,Vicky Freymann,West,Office Supplies,Supplies,15.52,4.5008
+US-2021-116190,1/3/2011,Sheri Gordon,South,Furniture,Chairs,67.88,18.3276
+US-2021-126760,1/3/2011,Kunst Miller,West,Furniture,Chairs,674.352,-109.5822
+US-2021-116190,1/3/2011,Sheri Gordon,South,Furniture,Furnishings,25.71,9.2556
+US-2021-126760,1/3/2011,Kunst Miller,West,Furniture,Furnishings,134.01,36.1827
+US-2021-169019,1/3/2011,Luke Foster,Central,Furniture,Furnishings,17.496,-10.0602
+US-2021-169019,1/3/2011,Luke Foster,Central,Office Supplies,Appliances,4.836,-12.09
+US-2021-169019,1/3/2011,Luke Foster,Central,Office Supplies,Binders,16.784,-26.8544
+US-2021-169019,1/3/2011,Luke Foster,Central,Office Supplies,Binders,8.88,-13.32
+US-2021-169019,1/3/2011,Luke Foster,Central,Office Supplies,Binders,2177.584,-3701.8928
+US-2021-116190,1/3/2011,Sheri Gordon,South,Office Supplies,Labels,162.89,76.5583
+US-2021-155894,1/3/2011,Carl Ludwig,Central,Office Supplies,Storage,123.552,-29.3436
+US-2021-159121,1/3/2011,Jack O'Briant,West,Technology,Accessories,111.93,34.6983
+US-2021-169019,1/3/2011,Luke Foster,Central,Technology,Accessories,431.136,-26.946
+US-2021-126760,1/3/2011,Kunst Miller,West,Technology,Accessories,170.97,70.0977
+US-2021-126760,1/3/2011,Kunst Miller,West,Technology,Phones,911.984,113.998
+US-2021-150126,1/3/2011,Aaron Smayling,East,Office Supplies,Paper,65.78,32.2322
+US-2021-169642,1/3/2011,Barry Blumstein,West,Office Supplies,Storage,276.28,0
+US-2021-124709,1/3/2011,Giulietta Weimer,West,Technology,Accessories,238,38.08
+US-2021-131541,1/3/2011,Chloris Kastensmidt,South,Furniture,Furnishings,129.888,12.9888
+US-2021-131541,1/3/2011,Chloris Kastensmidt,South,Office Supplies,Envelopes,48.944,16.5186
+US-2021-131541,1/3/2011,Chloris Kastensmidt,South,Office Supplies,Fasteners,14.32,5.191
+US-2021-111192,1/3/2011,Tom Stivers,West,Furniture,Bookcases,1367.84,259.8896
+US-2021-117345,1/3/2011,Barbara Fisher,South,Furniture,Furnishings,44.128,12.1352
+US-2021-117345,1/3/2011,Barbara Fisher,South,Office Supplies,Appliances,62.92,10.2245
+US-2021-152296,1/3/2011,Ivan Liston,West,Office Supplies,Binders,19.752,6.9132
+US-2021-162684,1/3/2011,Ann Steele,East,Office Supplies,Fasteners,5.68,1.917
+US-2021-117345,1/3/2011,Barbara Fisher,South,Office Supplies,Labels,17.544,5.9211
+US-2021-117345,1/3/2011,Barbara Fisher,South,Office Supplies,Paper,78.304,29.364
+US-2021-106299,1/3/2011,Nick Zandusky,Central,Office Supplies,Binders,26.7,12.549
+US-2021-106299,1/3/2011,Nick Zandusky,Central,Office Supplies,Storage,838.38,226.3626
+US-2021-106299,1/3/2011,Nick Zandusky,Central,Technology,Accessories,21.2,9.116
+US-2021-133690,1/3/2011,Bruce Stewart,West,Furniture,Tables,218.75,-161.875
+US-2021-133690,1/3/2011,Bruce Stewart,West,Office Supplies,Appliances,2.6,0.2925
+US-2021-125612,1/3/2011,Berenike Kampe,East,Office Supplies,Paper,39.96,18.7812
+US-2021-128986,1/3/2011,Gary Hansen,West,Office Supplies,Paper,93.024,33.7212
+US-2021-125612,1/3/2011,Berenike Kampe,East,Office Supplies,Storage,21.36,5.7672
+US-2021-125612,1/3/2011,Berenike Kampe,East,Office Supplies,Supplies,102.3,26.598
+US-2021-134215,1/3/2011,Marina Lichtenstein,East,Office Supplies,Appliances,101.96,27.5292
+US-2021-126361,1/3/2011,Valerie Dominguez,West,Office Supplies,Appliances,1089.75,305.13
+US-2021-126361,1/3/2011,Valerie Dominguez,West,Office Supplies,Art,16.4,4.264
+US-2021-126361,1/3/2011,Valerie Dominguez,West,Office Supplies,Binders,13.184,4.7792
+US-2021-126361,1/3/2011,Valerie Dominguez,West,Office Supplies,Paper,447.84,219.4416
+US-2021-134215,1/3/2011,Marina Lichtenstein,East,Office Supplies,Paper,259.74,124.6752
+US-2021-126361,1/3/2011,Valerie Dominguez,West,Office Supplies,Storage,158.9,7.945
+US-2021-134215,1/3/2011,Marina Lichtenstein,East,Technology,Accessories,255.42,104.7222
+US-2021-126361,1/3/2011,Valerie Dominguez,West,Technology,Phones,399.96,34.9965
+US-2021-117968,1/3/2011,Ricardo Sperren,East,Furniture,Chairs,1133.35,294.671
+US-2021-118962,1/3/2011,Chad Sievert,West,Furniture,Chairs,340.144,21.259
+US-2021-124723,1/3/2011,Gary Zandusky,Central,Furniture,Tables,489.23,41.934
+US-2021-117968,1/3/2011,Ricardo Sperren,East,Office Supplies,Appliances,79.47,22.2516
+US-2021-117968,1/3/2011,Ricardo Sperren,East,Office Supplies,Art,4.56,2.0064
+US-2021-110065,2/3/2011,Stephanie Phelps,East,Office Supplies,Art,15.96,7.0224
+US-2021-150490,2/3/2011,Sonia Sunley,West,Office Supplies,Art,45.98,12.8744
+US-2021-118962,2/3/2011,Chad Sievert,West,Office Supplies,Paper,20.94,9.8418
+US-2021-118962,2/3/2011,Chad Sievert,West,Office Supplies,Paper,110.96,53.2608
+US-2021-150490,2/3/2011,Sonia Sunley,West,Office Supplies,Storage,15.78,0.6312
+US-2021-150490,2/3/2011,Sonia Sunley,West,Technology,Accessories,16.36,1.636
+US-2021-110065,2/3/2011,Stephanie Phelps,East,Technology,Phones,135.99,36.7173
+US-2021-115357,2/3/2011,Roland Fjeld,South,Technology,Accessories,62.91,22.6476
+US-2021-137575,2/3/2011,Trudy Brown,East,Technology,Accessories,199.98,83.9916
+US-2021-156790,2/3/2011,Vivek Gonzalez,South,Furniture,Bookcases,155.456,-7.7728
+US-2021-151708,2/3/2011,Maria Bertelson,West,Furniture,Furnishings,121.376,-3.0344
+US-2021-131450,2/3/2011,Lena Radford,West,Furniture,Furnishings,327.76,91.7728
+US-2021-124478,2/3/2011,Matt Abelman,Central,Furniture,Furnishings,53.88,22.6296
+US-2021-124478,3/3/2011,Matt Abelman,Central,Office Supplies,Appliances,167.535,37.23
+US-2021-131450,3/3/2011,Lena Radford,West,Office Supplies,Appliances,76.12,22.0748
+US-2021-124478,3/3/2011,Matt Abelman,Central,Office Supplies,Envelopes,38.34,17.253
+US-2021-154669,3/3/2011,Tamara Manning,West,Office Supplies,Storage,423.28,110.0528
+US-2021-151708,3/3/2011,Maria Bertelson,West,Technology,Accessories,95.976,-10.7973
+US-2021-124478,3/3/2011,Matt Abelman,Central,Technology,Copiers,549.99,274.995
+US-2021-131450,3/3/2011,Lena Radford,West,Technology,Copiers,1199.976,434.9913
+US-2021-124478,3/3/2011,Matt Abelman,Central,Technology,Phones,299.98,83.9944
+US-2021-131450,3/3/2011,Lena Radford,West,Technology,Phones,445.96,55.745
+CA-2021-129322,3/3/2011,Denny Blanton,East,Office Supplies,Appliances,113.92,33.04
+CA-2021-129322,3/3/2011,Denny Blanton,East,Office Supplies,Art,39.66,11.9
+CA-2021-129322,3/3/2011,Denny Blanton,East,Office Supplies,Binders,447.86,210.49
+US-2021-161249,3/3/2011,Roger Demir,West,Office Supplies,Binders,9.345,-6.5415
+US-2021-169726,3/3/2011,Joseph Holt,West,Office Supplies,Binders,2060.744,643.9825
+US-2021-161249,3/3/2011,Roger Demir,West,Office Supplies,Fasteners,4.464,-0.9486
+US-2021-110527,3/3/2011,Emily Ducich,West,Office Supplies,Labels,20.88,9.6048
+US-2021-141901,3/3/2011,Gene McClure,West,Office Supplies,Paper,5.98,2.691
+US-2021-167850,3/3/2011,Andy Gerbode,South,Office Supplies,Paper,15.552,5.4432
+US-2021-166471,3/3/2011,Matthew Grinstein,West,Technology,Phones,219.168,-43.8336
+US-2021-166471,3/3/2011,Matthew Grinstein,West,Technology,Phones,1091.168,68.198
+US-2021-167850,3/3/2011,Andy Gerbode,South,Technology,Phones,178.384,22.298
+US-2021-127012,3/3/2011,Greg Matthias,West,Furniture,Furnishings,12.35,5.434
+US-2021-127012,3/3/2011,Greg Matthias,West,Office Supplies,Art,40.97,10.6522
+US-2021-127012,3/3/2011,Greg Matthias,West,Office Supplies,Fasteners,22.96,10.7912
+US-2021-154641,3/3/2011,Ken Lonsdale,East,Office Supplies,Storage,375.34,18.767
+US-2021-109897,3/3/2011,Ben Wallace,West,Furniture,Furnishings,85.44,31.6128
+US-2021-156244,3/3/2011,Duane Huffman,South,Office Supplies,Appliances,211.248,15.8436
+US-2021-156244,3/3/2011,Duane Huffman,South,Office Supplies,Art,47.96,4.1965
+US-2021-153927,3/3/2011,Lauren Leatherbury,South,Office Supplies,Binders,14.04,6.7392
+US-2021-109302,3/3/2011,Charles Sheldon,East,Office Supplies,Binders,196.21,98.105
+US-2021-156244,3/3/2011,Duane Huffman,South,Office Supplies,Labels,2.952,0.9963
+US-2021-156244,3/3/2011,Duane Huffman,South,Office Supplies,Paper,31.104,10.8864
+US-2021-156244,3/3/2011,Duane Huffman,South,Office Supplies,Supplies,5.552,-1.041
+US-2021-153927,3/3/2011,Lauren Leatherbury,South,Technology,Accessories,272.61,98.1396
+US-2021-156244,4/3/2011,Duane Huffman,South,Technology,Accessories,158.928,41.7186
+US-2021-109897,4/3/2011,Ben Wallace,West,Technology,Phones,806.336,50.396
+US-2021-164406,4/3/2011,Brian Dahlen,West,Furniture,Chairs,195.136,-12.196
+US-2021-164406,4/3/2011,Brian Dahlen,West,Office Supplies,Appliances,152.91,42.8148
+US-2021-109043,4/3/2011,Christine Sundaresam,South,Office Supplies,Appliances,152.24,17.127
+US-2021-141005,4/3/2011,Christine Sundaresam,East,Office Supplies,Binders,62.94,30.2112
+US-2021-164406,4/3/2011,Brian Dahlen,West,Office Supplies,Binders,17.856,6.2496
+US-2021-138023,5/3/2011,Keith Herrera,Central,Office Supplies,Binders,30.96,-52.632
+US-2021-164406,5/3/2011,Brian Dahlen,West,Office Supplies,Binders,46.44,15.093
+US-2021-164406,5/3/2011,Brian Dahlen,West,Office Supplies,Paper,92.94,41.823
+US-2021-109043,5/3/2011,Christine Sundaresam,South,Office Supplies,Paper,91.36,29.692
+US-2021-142839,5/3/2011,Troy Staebel,East,Furniture,Tables,853.092,-227.4912
+US-2021-111500,5/3/2011,Don Jones,South,Office Supplies,Binders,17.96,8.2616
+US-2021-111500,5/3/2011,Don Jones,South,Office Supplies,Fasteners,12.67,4.5612
+US-2021-111500,6/3/2011,Don Jones,South,Office Supplies,Paper,114.2,52.532
+US-2021-129168,6/3/2011,Ken Black,Central,Office Supplies,Paper,15.552,5.4432
+US-2021-111500,7/3/2011,Don Jones,South,Technology,Accessories,339.96,122.3856
+US-2021-156559,7/3/2011,Lena Hernandez,South,Furniture,Bookcases,638.82,172.4814
+US-2021-133158,7/3/2011,David Wiener,West,Furniture,Furnishings,289.24,26.0316
+US-2021-121727,7/3/2011,Jim Karlsson,East,Office Supplies,Art,10.72,1.742
+US-2021-133158,7/3/2011,David Wiener,West,Office Supplies,Binders,69.456,22.5732
+US-2021-164616,7/3/2011,Maxwell Schwartz,East,Office Supplies,Binders,76.776,-58.8616
+US-2021-143581,7/3/2011,Bill Shonely,South,Office Supplies,Storage,344.91,10.3473
+US-2021-164616,7/3/2011,Maxwell Schwartz,East,Office Supplies,Supplies,9.184,1.148
+CA-2021-132339,7/3/2011,Jennifer Braxton,East,Office Supplies,Binders,19.44,9.33
+CA-2021-115777,7/3/2011,Doug O'Connell,East,Office Supplies,Paper,387.99,182.36
+US-2021-114321,7/3/2011,Nick Crebassa,South,Furniture,Chairs,500.24,145.0696
+US-2021-166716,7/3/2011,Craig Reiter,Central,Furniture,Chairs,421.372,-6.0196
+US-2021-114321,7/3/2011,Nick Crebassa,South,Office Supplies,Binders,896.99,421.5853
+US-2021-114321,7/3/2011,Nick Crebassa,South,Office Supplies,Paper,20.12,9.2552
+US-2021-123253,7/3/2011,Deanra Eno,East,Office Supplies,Art,3.912,1.0269
+US-2021-166828,7/3/2011,Jennifer Ferguson,Central,Office Supplies,Paper,11.56,5.6644
+US-2021-130918,7/3/2011,Jeremy Pistek,South,Office Supplies,Supplies,7.632,-1.8126
+US-2021-124737,7/3/2011,Arthur Prichep,West,Furniture,Furnishings,4.224,1.2672
+US-2021-154837,8/3/2011,Robert Barroso,West,Office Supplies,Binders,49.568,17.3488
+US-2021-124737,8/3/2011,Arthur Prichep,West,Office Supplies,Paper,31.104,10.8864
+US-2021-124737,8/3/2011,Arthur Prichep,West,Office Supplies,Paper,223.056,69.705
+US-2021-124737,8/3/2011,Arthur Prichep,West,Office Supplies,Paper,15.552,5.4432
+US-2021-112795,8/3/2011,Corey Roper,Central,Office Supplies,Paper,19.44,9.5256
+US-2021-110639,8/3/2011,Rick Hansen,East,Office Supplies,Paper,25.92,12.4416
+US-2021-110639,8/3/2011,Rick Hansen,East,Office Supplies,Paper,45.92,22.5008
+US-2021-124737,8/3/2011,Arthur Prichep,West,Office Supplies,Supplies,6.8,0.51
+US-2021-124737,8/3/2011,Arthur Prichep,West,Technology,Phones,143.64,10.773
+US-2021-107916,8/3/2011,Jennifer Patt,East,Furniture,Furnishings,13.28,6.3744
+US-2021-107916,8/3/2011,Jennifer Patt,East,Office Supplies,Binders,12.672,4.4352
+US-2021-106719,8/3/2011,Robert Barroso,West,Office Supplies,Binders,8.288,2.6936
+US-2021-120432,8/3/2011,Dorothy Wardle,South,Office Supplies,Supplies,25.5,6.63
+US-2021-104178,8/3/2011,Janet Molinari,West,Furniture,Furnishings,6.28,2.6376
+US-2021-107398,8/3/2011,Brendan Sweed,East,Office Supplies,Binders,6.528,-4.5696
+US-2021-107398,8/3/2011,Brendan Sweed,East,Office Supplies,Binders,20.856,-16.6848
+US-2021-126200,8/3/2011,Joe Elijah,Central,Office Supplies,Binders,25.68,-39.804
+US-2021-126200,8/3/2011,Joe Elijah,Central,Office Supplies,Binders,12.384,-19.8144
+US-2021-107398,8/3/2011,Brendan Sweed,East,Office Supplies,Binders,2.862,-2.2896
+US-2021-115259,8/3/2011,Ryan Crowe,East,Office Supplies,Envelopes,130.464,44.0316
+US-2021-115259,8/3/2011,Ryan Crowe,East,Office Supplies,Envelopes,4.72,1.652
+US-2021-115259,8/3/2011,Ryan Crowe,East,Office Supplies,Fasteners,40.096,14.5348
+US-2021-115259,8/3/2011,Ryan Crowe,East,Office Supplies,Paper,23.976,7.4925
+US-2021-104178,9/3/2011,Janet Molinari,West,Office Supplies,Paper,25.92,12.4416
+US-2021-104178,9/3/2011,Janet Molinari,West,Office Supplies,Storage,48.84,13.1868
+US-2021-104178,9/3/2011,Janet Molinari,West,Technology,Accessories,95.1,30.432
+US-2021-103660,9/3/2011,Mitch Webber,West,Technology,Phones,1007.944,75.5958
+US-2021-103331,9/3/2011,Karl Braun,East,Furniture,Furnishings,10.68,4.0584
+US-2021-115413,9/3/2011,Paul Prost,East,Office Supplies,Art,8.64,2.5056
+US-2021-103331,9/3/2011,Karl Braun,East,Office Supplies,Paper,17.34,8.4966
+US-2021-103331,9/3/2011,Karl Braun,East,Office Supplies,Paper,3.38,1.5548
+US-2021-123260,9/3/2011,Frank Merwin,West,Technology,Accessories,176.8,22.984
+US-2021-115413,9/3/2011,Paul Prost,East,Technology,Accessories,149.97,52.4895
+US-2021-124688,9/3/2011,Corey Catlett,South,Furniture,Furnishings,29.12,12.5216
+US-2021-124688,10/3/2011,Corey Catlett,South,Furniture,Tables,1202.94,300.735
+US-2021-143336,10/3/2011,Zuschuss Donatelli,West,Office Supplies,Art,8.56,2.4824
+US-2021-143336,10/3/2011,Zuschuss Donatelli,West,Office Supplies,Binders,22.72,7.384
+US-2021-101266,10/3/2011,Michael Moore,South,Office Supplies,Paper,13.36,6.4128
+US-2021-124688,10/3/2011,Corey Catlett,South,Technology,Phones,579.95,168.1855
+US-2021-143336,10/3/2011,Zuschuss Donatelli,West,Technology,Phones,213.48,16.011
+US-2021-169775,10/3/2011,Ryan Akin,South,Furniture,Tables,174.0585,-110.7645
+US-2021-169775,10/3/2011,Ryan Akin,South,Office Supplies,Binders,505.176,-336.784
+US-2021-169775,10/3/2011,Ryan Akin,South,Office Supplies,Envelopes,29.808,10.8054
+US-2021-135699,10/3/2011,Hilary Holden,West,Office Supplies,Paper,13.36,6.4128
+US-2021-135699,10/3/2011,Hilary Holden,West,Office Supplies,Paper,109.92,53.8608
+US-2021-146500,10/3/2011,Annie Thurman,East,Office Supplies,Binders,25.3,11.891
+US-2021-146500,10/3/2011,Annie Thurman,East,Office Supplies,Storage,95.94,9.594
+US-2021-143385,11/3/2011,Shirley Jackson,West,Technology,Accessories,92.52,18.504
+US-2021-126522,11/3/2011,Larry Tron,West,Office Supplies,Art,53.94,15.6426
+US-2021-165428,11/3/2011,Jack Lebron,Central,Office Supplies,Binders,3.648,-6.0192
+US-2021-109855,11/3/2011,Lena Hernandez,East,Office Supplies,Binders,23.744,8.3104
+US-2021-165428,11/3/2011,Jack Lebron,Central,Office Supplies,Paper,31.104,10.8864
+US-2021-109855,11/3/2011,Lena Hernandez,East,Technology,Accessories,357,57.12
+US-2021-157721,11/3/2011,Justin MacKendrick,East,Furniture,Furnishings,70.71,4.9497
+US-2021-157721,11/3/2011,Justin MacKendrick,East,Office Supplies,Appliances,19.9,8.955
+US-2021-138828,11/3/2011,Katherine Ducich,East,Office Supplies,Art,57.75,16.17
+US-2021-127936,11/3/2011,Clay Ludtke,East,Office Supplies,Art,21.24,8.0712
+US-2021-152268,11/3/2011,Sanjit Chand,South,Office Supplies,Binders,1793.98,843.1706
+US-2021-138828,11/3/2011,Katherine Ducich,East,Office Supplies,Paper,14.94,7.0218
+US-2021-106971,11/3/2011,Bryan Mills,Central,Technology,Accessories,475.944,95.1888
+US-2021-151792,11/3/2011,Christina VanderZanden,Central,Technology,Accessories,239.976,53.9946
+US-2021-158281,11/3/2011,Andy Gerbode,Central,Technology,Machines,559.71,-121.2705
+US-2021-120236,11/3/2011,Mathew Reese,Central,Office Supplies,Binders,7.68,-11.52
+US-2021-125171,11/3/2011,Allen Goldenen,East,Office Supplies,Labels,14.4,7.056
+US-2021-136861,11/3/2011,Patrick Ryan,South,Furniture,Furnishings,31.984,1.999
+US-2021-106572,11/3/2011,Nora Preis,East,Office Supplies,Storage,264.32,19.824
+US-2021-130449,11/3/2011,Victoria Pisteka,West,Furniture,Furnishings,41.88,12.1452
+US-2021-130449,11/3/2011,Victoria Pisteka,West,Office Supplies,Labels,58.48,27.4856
+US-2021-117765,11/3/2011,Rick Bensley,Central,Furniture,Chairs,161.96,45.3488
+US-2021-122882,11/3/2011,Sean Braxton,East,Furniture,Furnishings,42.368,8.4736
+US-2021-131002,12/3/2011,Tom Boeckenhauer,Central,Furniture,Furnishings,57.69,23.6529
+US-2021-131002,12/3/2011,Tom Boeckenhauer,Central,Furniture,Furnishings,821.88,213.6888
+US-2021-117765,12/3/2011,Rick Bensley,Central,Furniture,Tables,429.9,111.774
+US-2021-105165,12/3/2011,Sam Zeldin,Central,Furniture,Tables,200.795,-22.948
+US-2021-105165,12/3/2011,Sam Zeldin,Central,Office Supplies,Art,21.864,3.5529
+US-2021-105165,12/3/2011,Sam Zeldin,Central,Office Supplies,Binders,2.92,-4.818
+US-2021-117765,12/3/2011,Rick Bensley,Central,Office Supplies,Binders,32.06,15.3888
+US-2021-131002,12/3/2011,Tom Boeckenhauer,Central,Office Supplies,Binders,42.81,20.1207
+US-2021-126193,12/3/2011,Shahid Shariari,Central,Office Supplies,Binders,3.828,-6.5076
+US-2021-109918,14-03-2011,Lisa Ryan,West,Office Supplies,Binders,83.92,31.47
+US-2021-126193,14-03-2011,Shahid Shariari,Central,Office Supplies,Binders,304.99,-533.7325
+US-2021-126193,14-03-2011,Shahid Shariari,Central,Office Supplies,Fasteners,13.16,4.1125
+US-2021-109918,14-03-2011,Lisa Ryan,West,Office Supplies,Paper,20.56,9.6632
+US-2021-131002,14-03-2011,Tom Boeckenhauer,Central,Office Supplies,Paper,12.96,6.2208
+US-2021-122882,14-03-2011,Sean Braxton,East,Office Supplies,Storage,64.784,-14.5764
+US-2021-117765,14-03-2011,Rick Bensley,Central,Office Supplies,Storage,19.86,5.7594
+US-2021-109918,14-03-2011,Lisa Ryan,West,Office Supplies,Supplies,27.36,7.3872
+US-2021-105165,14-03-2011,Sam Zeldin,Central,Technology,Accessories,46.688,-2.918
+US-2021-122882,14-03-2011,Sean Braxton,East,Technology,Machines,399.54,-559.356
+US-2021-131002,14-03-2011,Tom Boeckenhauer,Central,Technology,Phones,104.85,28.3095
+US-2021-105165,14-03-2011,Sam Zeldin,Central,Technology,Phones,196.776,14.7582
+US-2021-100006,14-03-2011,Dennis Kane,East,Technology,Phones,377.97,109.6113
+US-2021-122882,14-03-2011,Sean Braxton,East,Technology,Phones,32.382,4.3176
+US-2021-107818,14-03-2011,Marc Crier,West,Furniture,Chairs,975.92,121.99
+US-2021-139892,14-03-2011,Becky Martin,Central,Furniture,Chairs,1740.06,-24.858
+US-2021-146283,14-03-2011,Kean Takahito,Central,Furniture,Chairs,966.7,-13.81
+US-2021-146815,14-03-2011,Paul Prost,East,Furniture,Chairs,172.764,13.4372
+US-2021-123127,14-03-2011,Stefania Perrino,East,Office Supplies,Appliances,16.78,4.195
+US-2021-139892,14-03-2011,Becky Martin,Central,Office Supplies,Appliances,177.98,-453.849
+US-2021-168592,14-03-2011,Dennis Pardue,West,Office Supplies,Appliances,56.65,24.3595
+US-2021-107818,14-03-2011,Marc Crier,West,Office Supplies,Art,303.84,91.152
+US-2021-139892,14-03-2011,Becky Martin,Central,Office Supplies,Art,32.064,6.8136
+US-2021-107818,15-03-2011,Marc Crier,West,Office Supplies,Art,5.88,2.646
+US-2021-146815,15-03-2011,Paul Prost,East,Office Supplies,Art,3.52,1.6896
+US-2021-139892,15-03-2011,Becky Martin,Central,Office Supplies,Art,9.936,2.7324
+US-2021-140032,15-03-2011,Toby Swindell,West,Office Supplies,Binders,8.608,3.0128
+US-2021-115987,15-03-2011,Lisa Hazard,Central,Office Supplies,Binders,51.184,-79.3352
+US-2021-128839,15-03-2011,Ted Trevino,South,Office Supplies,Fasteners,45,21.6
+US-2021-168592,15-03-2011,Dennis Pardue,West,Office Supplies,Fasteners,4.02,1.9698
+US-2021-146283,15-03-2011,Kean Takahito,Central,Office Supplies,Paper,182.112,61.4628
+US-2021-146283,15-03-2011,Kean Takahito,Central,Office Supplies,Paper,17.904,6.2664
+US-2021-107818,15-03-2011,Marc Crier,West,Office Supplies,Storage,485.88,19.4352
+US-2021-139892,15-03-2011,Becky Martin,Central,Office Supplies,Storage,275.928,-58.6347
+US-2021-168592,15-03-2011,Dennis Pardue,West,Office Supplies,Storage,14.97,4.1916
+US-2021-163293,15-03-2011,Karen Carlisle,South,Technology,Accessories,83.88,30.1968
+US-2021-132500,15-03-2011,Gary Zandusky,West,Technology,Accessories,49.98,8.4966
+US-2021-163293,15-03-2011,Karen Carlisle,South,Technology,Accessories,32.97,12.8583
+US-2021-128839,15-03-2011,Ted Trevino,South,Technology,Machines,209.97,90.2871
+US-2021-139892,16-03-2011,Becky Martin,Central,Technology,Machines,8159.952,-1359.992
+US-2021-139892,16-03-2011,Becky Martin,Central,Technology,Phones,143.976,8.9985
+US-2021-126403,16-03-2011,Rick Reed,East,Furniture,Chairs,785.88,212.1876
+US-2021-102869,16-03-2011,Logan Currie,East,Furniture,Furnishings,17.472,5.0232
+US-2021-131870,16-03-2011,Nicole Fjeld,East,Furniture,Furnishings,60.672,12.8928
+US-2021-131870,16-03-2011,Nicole Fjeld,East,Office Supplies,Art,30.816,2.6964
+US-2021-144407,16-03-2011,Maribeth Schnelling,Central,Office Supplies,Labels,103.6,51.8
+US-2021-102869,16-03-2011,Logan Currie,East,Office Supplies,Paper,15.552,5.4432
+US-2021-126403,16-03-2011,Rick Reed,East,Office Supplies,Paper,166.44,79.8912
+US-2021-103527,17-03-2011,Chris Cortes,Central,Office Supplies,Paper,10.896,3.405
+US-2021-126403,17-03-2011,Rick Reed,East,Office Supplies,Paper,26.2,12.838
+US-2021-126403,17-03-2011,Rick Reed,East,Office Supplies,Storage,1325.85,238.653
+US-2021-102869,17-03-2011,Logan Currie,East,Technology,Accessories,64.704,-4.8528
+US-2021-115196,17-03-2011,Daniel Lacy,South,Technology,Machines,1299.99,-571.9956
+US-2021-102869,17-03-2011,Logan Currie,East,Technology,Phones,135.516,-31.6204
